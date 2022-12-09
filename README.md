@@ -9,7 +9,7 @@
 <p align="center">
   Our Universe for writig posts.
   <br>
-  <a href="[https://getbootstrap.com/docs/5.2/](https://mariaseltmann.github.io/)"><strong>Explore the umiverse docs »</strong></a>
+  <a href="[JuMiverse](https://mariaseltmann.github.io/)"><strong>Explore the umiverse docs »</strong></a>
   <br>
   <br>
   <a href="https://blog.umiverse.com/">Blog</a>
