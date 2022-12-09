@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="JuMiverse.jpeg" alt="JuMiverse logo" width="200" height="200">
+    <img src="JuMiverse.PNG" alt="JuMiverse logo" width="200" height="200">
   </a>
 </p>
 
