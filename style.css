@@ -90,10 +90,10 @@ blockquote p:last-child {
  * Layout styles
  */
 
-/* Full size background image
+/* Full size background image */
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(background.JPG) center center no-repeat fixed;
+  background:url(background.jpg) center center no-repeat fixed;
   background-size:cover;
 }
 body {
@@ -105,7 +105,7 @@ header, #content, footer {
   padding:25px;
   color:#FFFFFF; 
 }
-*/
+
 
 /* Menu Links */
 ul.main-menu {
