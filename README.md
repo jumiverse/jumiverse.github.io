@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">JuMiverse</h3>
+<h3 align="center">Welcome to the JuMiverse!</h3>
 
 <p align="center">
   Our Universe for writig posts.
@@ -17,7 +17,7 @@
 
 
 ## Jumiverse 
-Welcome to the Jumiverse
+Welcome to the JuMiverse
 
 
 ## Table of contents
