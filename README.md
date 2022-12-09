@@ -7,12 +7,10 @@
 <h3 align="center">Welcome to the JuMiverse!</h3>
 
 <p align="center">
-  Our Universe for writig posts.
+  Our Universe for writing posts.
   <br>
   <a href="https://mariaseltmann.github.io/"><strong>Explore the JuMiverse »</strong></a>
   <br>
-  <br>
-  <a href="https://blog.umiverse.com/">Blog</a>
 </p>
 
 
@@ -38,7 +36,7 @@ More details will be provided soon
 <details>
   <summary>More details</summary>
 
-  ```up to come
+  up to come
 
 </details>
 
