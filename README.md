@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://umiverse.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Umiverse logo" width="200" height="165">
+    <img src="9540AD0B-1498-439A-A25F-1B95A7382997.jpeg" alt="Umiverse logo" width="200" height="165">
   </a>
 </p>
 
