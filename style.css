@@ -102,7 +102,7 @@ body {
 }
 header, #content, footer { 
   /*background: rgba(0,0,0,.8); */
-  background: rgba(131, 185, 195, 0.8)); 
+  background: rgba(131, 185, 195, 0.8); 
   padding:25px;
   color:#83b9c3; 
 }
