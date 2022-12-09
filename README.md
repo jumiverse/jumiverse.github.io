@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="9540AD0B-1498-439A-A25F-1B95A7382997.jpeg" alt="Umiverse logo" width="200" height="165">
+    <img src="9540AD0B-1498-439A-A25F-1B95A7382997.jpeg" alt="Umiverse logo" width="200" height="200">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 <p align="center">
   Our Universe for writig posts.
   <br>
-  <a href="https://getbootstrap.com/docs/5.2/"><strong>Explore the umiverse docs »</strong></a>
+  <a href="[https://getbootstrap.com/docs/5.2/](https://mariaseltmann.github.io/)"><strong>Explore the umiverse docs »</strong></a>
   <br>
   <br>
   <a href="https://blog.umiverse.com/">Blog</a>
