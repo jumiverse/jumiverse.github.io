@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="9540AD0B-1498-439A-A25F-1B95A7382997.jpeg" alt="Umiverse logo" width="200" height="200">
+    <img src="JuMiverse.jpeg" alt="JuMiverse logo" width="200" height="200">
   </a>
 </p>
 
-<h3 align="center">Jumiverse</h3>
+<h3 align="center">JuMiverse</h3>
 
 <p align="center">
   Our Universe for writig posts.
   <br>
-  <a href="[JuMiverse](https://mariaseltmann.github.io/)"><strong>Explore the umiverse docs »</strong></a>
+  <a href="https://mariaseltmann.github.io/"><strong>Explore the JuMiverse »</strong></a>
   <br>
   <br>
   <a href="https://blog.umiverse.com/">Blog</a>
@@ -23,7 +23,7 @@ Welcome to the Jumiverse
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Status](#status)
+- [More details](#more-details)
 
 
 ## Quick start
@@ -31,22 +31,16 @@ Welcome to the Jumiverse
 Several quick start options are available
 
 
-## What's included
+## More details
 
-Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations.
+More details will be provided soon
 
 <details>
-  <summary>Download contents</summary>
+  <summary>More details</summary>
 
-  ```text
+  ```up to come
 
 </details>
-
-
-## Contributing
-
-Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
 
 ## Creators
 
