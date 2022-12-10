@@ -19,7 +19,21 @@
 
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>    
+    
+    <!-- Posts -->
+    <ul id="posts">
 
+	{% for post in paginator.posts %}
+
+	  <li class="post">
+	  	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+	  </li>
+
+    {% endfor %}
+
+    </ul>
     
   </head>
   
@@ -63,19 +77,6 @@
               <a href="https://mariaseltmann.github.io/blog/blog.html"><strong>Explore the blog »</strong></a>
               <br>
             </p>
-            <!-- Posts -->
-            <ul id="posts">
-	           {% for post in paginator.posts %}
-
-	             <li class="post">
-	  	         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-	  	         <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-	  	         <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	             </li>
-
-             {% endfor %}
-
-            </ul>
           </div>
           
           <div id="contact" class="content-region hide">
