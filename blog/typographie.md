@@ -1,13 +1,7 @@
 ---
-title: Markdown Typography
+title: Blog entry Typography
 ---
-Markdown is a light-weight and easy to use syntax for styling all forms and
-writing on [github](https://github.com/) platform. With Markdown, it is easy to
-control the display of the document.
-In the following sections, we'll have a look at how basic styling and
-type-setting is done in Markdown format.
-One can easily insert html code in Markdown in order to render more sophisticated
-code. The Markdown files have extension `.md` or `.markdown`.
+This is the blog title
 
 ## Image
 ### Inserting local image
