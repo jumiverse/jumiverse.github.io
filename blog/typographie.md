@@ -1,7 +1,22 @@
 ---
-title: Blog entry Typography
+title: Welcome to JuMs blog
 ---
-This is the blog title
+ 
+ <h2 align="center">JuMiblog</h2>
+ <p align="center">
+  <br>
+  <img src="https://github.com/mariaseltmann/mariaseltmann.github.io/logo.png?sanitize=true" width="200px" height="200px">
+</p>
+
+## Features : 
+- 🥘 eat
+- 🚶 move
+- 😴 sleep
+- ❤️ repeat
+
+
+## December 10th
+# Hohenpeißenberg with sugar
 
 ## Image
 ### Inserting local image
