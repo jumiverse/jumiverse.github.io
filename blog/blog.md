@@ -1,7 +1,6 @@
----
-title: Welcome to JuMs blog
----
- 
+
+# Welcome to JuMs blog
+
  <h2 align="center">JuMiblog</h2>
  <p align="center">
   <br>
@@ -14,23 +13,10 @@ title: Welcome to JuMs blog
 - 😴 sleep
 - ❤️ repeat
 
-
 ## December 10th
-# Hohenpeißenberg with sugar
 
-## Image
-### Inserting local image
-![]({{"img/logo.svg" | prepend: site.baseurl }}){:height="50%" width="50%"}
-
-{% highlight markdown %}
-![Img-Text](/path/to/img.svg){:height="50%" width="50%"}
-{% endhighlight %}
-
-### Inserting image from URLs
-![](https://pranjaldhole.github.io/images/evolution.jpg){:height="40%" width="40%"}
-{% highlight markdown %}
-![Img-Text](https://address/to/img.png){:height="40%" width="40%"}
-{% endhighlight %}
+### Fun of the day
+![](https://pranjaldhole.github.io/images/evolution.jpg)
 
 ## Inserting URLs
 Similar way external urls can be inserted like [this](http://www.example.com).
