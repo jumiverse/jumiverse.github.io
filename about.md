@@ -1,8 +1,3 @@
----
-layout: page
-title: About
----
-
 <!doctype html>
 <html>  
   <head>
