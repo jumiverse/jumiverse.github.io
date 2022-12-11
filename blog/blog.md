@@ -39,15 +39,12 @@
 <div id="container">
       <div class="inner">
         <div id="content"> 
-          <div id="home" class="content-region hide">
-            <h2>Home</h2>
+          <div id="eat" class="content-region hide">
+            <h2>eat</h2>
             <p>
-              Our Universe for writing posts.
+              food
               <br>
-              <a href="https://mariaseltmann.github.io/blog/meet-jugan.html"><strong>Meet Jugan »</strong></a>
-              <br>
-              <a href="https://mariaseltmann.github.io/blog/meet-mia.html"><strong>Meet Mia »</strong></a>
-              <br>
+              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>Meet Jugan »</strong></a>
             </p>
           </div>
 	</div>
@@ -58,33 +55,11 @@
 ![](https://pranjaldhole.github.io/images/evolution.jpg)
 
 ## About us
-[Meet Mia](meet-mia.html)
-<br>
-[Meet Jugan](meet-jugan.html)
-
-## Formatting
-
-{% highlight markdown %}
- # This is a <h1> tag.
- ## This is a <h2> tag.
- <h3>, <h4>, <h5> and <h6> have the same style.
-{% endhighlight %}
-
-## Type-setting
-Insert your text between two double asterisks to make it **bold**.
-
-Insert your text between underscores to make it _italic_.
-
-> This is a blockquote
-
-### Unordered list
-- list 1
-- list 2
-- list 3
-- list 4
-
-### Ordered list
-1. one
-2. two
-3. three
-4. four
+<p>
+              Our Universe for writing posts.
+              <br>
+              <a href="https://mariaseltmann.github.io/blog/meet-jugan.html"><strong>Meet Jugan »</strong></a>
+              <br>
+              <a href="https://mariaseltmann.github.io/blog/meet-mia.html"><strong>Meet Mia »</strong></a>
+              <br>
+            </p>
