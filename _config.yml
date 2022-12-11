@@ -36,3 +36,6 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
  
+# Disqus comments
+comments: true      # used to enable disqus comments on site
+dsq_shortname: jumiblog-template # disqus shortname
