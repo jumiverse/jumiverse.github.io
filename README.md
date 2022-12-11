@@ -11,6 +11,5 @@
   Our Universe for writing posts.
   <br>
   <a href="https://mariaseltmann.github.io/"><strong>Explore the JuMiverse »</strong></a>
-  <a href="https://mariaseltmann.github.io/blog/blog.html"><strong>Explore the Blog »</strong></a>
   <br>
 </p>
