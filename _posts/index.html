@@ -11,3 +11,11 @@ pagination:
 This page lists all posts available and paginates them.
 
 Try clicking the category pages at the top of this page.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul> 
