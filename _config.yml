@@ -3,27 +3,43 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: JuMiverse
-description: > # this means to ignore newlines until "baseurl:"
-  Blog site for the JuMiverse
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+tagline: Blog site for the JuMiverse
+url: ""
+paginate: 1
+baseurl: ""
+permalink: pretty
+# permalink: /:year/:month/:title.html
+
 
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
-  - jekyll-paginate-v2
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
   - Gemfile
   - Gemfile.lock
-
-# Produces a cleaner folder structure when using categories
-permalink: /:year/:month/:title.html
+  - LICENSE.md
+  - README.md
 
 # Explicitly turn off the old code
-paginate: nil
-paginate_path: nil
+#paginate: nil
+#paginate_path: nil
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Specify the author for blog posts
+author:
+  name: JuM
 
 # Pagination Settings
 pagination:
@@ -39,3 +55,10 @@ pagination:
 # Disqus comments
 comments: true      # used to enable disqus comments on site
 dsq_shortname: jumiblog-template # disqus shortname
+
+
+
+
+
+
+  
