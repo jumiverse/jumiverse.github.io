@@ -62,6 +62,8 @@ pagination:
 comments: true      # used to enable disqus comments on site
 dsq_shortname: jumiblog-template # disqus shortname
 
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+
 
 
 
