@@ -29,7 +29,7 @@ version: "1.0.1"    # Blog site version
 
 # Disqus comments
 comments: true      # used to enable disqus comments on site
-dsq_shortname: science-blog-template # disqus shortname
+dsq_shortname: jumiblog-template # disqus shortname
 
 # Options: Define which header/footer to use
 custom_header: false
