@@ -42,9 +42,8 @@
           <div id="eat" class="content-region hide">
             <h2>eat</h2>
             <p>
-              food
               <br>
-              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>Meet Jugan »</strong></a>
+              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>recipes »</strong></a>
             </p>
           </div>
 	</div>
