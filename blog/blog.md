@@ -14,7 +14,7 @@
       <ul class="main-menu">
         <li><a href="#eat">🥘 eat</a></li>
         <li><a href="#move">🚶move</a></li>
-        <li><a href="#sleep">😴 sleep</a></li>
+        <li><a href="#learn">:book: learn</a></li>
       </ul>                 
       </p>
  </body>
@@ -44,6 +44,20 @@
             <p>
               <br>
               <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>recipes »</strong></a>
+            </p>
+          </div>
+	<div id="move" class="content-region hide">
+            <h2>emove</h2>
+            <p>
+              <br>
+              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>health »</strong></a>
+            </p>
+          </div>
+	 <div id="learn" class="content-region hide">
+            <h2>learn</h2>
+            <p>
+              <br>
+              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>learn »</strong></a>
             </p>
           </div>
 	</div>
