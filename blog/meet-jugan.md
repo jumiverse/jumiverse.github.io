@@ -1,6 +1,6 @@
 
 # Meet Jugan
-<img src="https://mariaseltmann.github.io/JuMJ.PNG" width="200" height="200">
+<img src="../JuMJ.PNG" width="200" height="200">
 
 ## A Day in the Life of Jugan
 
