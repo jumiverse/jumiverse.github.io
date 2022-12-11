@@ -47,29 +47,28 @@
             </p>
           </div>
 	<div id="move" class="content-region hide">
-            <h2>emove</h2>
+            <h2>move</h2>
             <p>
               <br>
-              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>health »</strong></a>
+              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>all about health »</strong></a>
             </p>
           </div>
 	 <div id="learn" class="content-region hide">
             <h2>learn</h2>
             <p>
               <br>
-              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>learn »</strong></a>
+              <a href="https://mariaseltmann.github.io/blog/recipes.html"><strong>articles, books, ted talks »</strong></a>
             </p>
           </div>
 	</div>
     </div>
 </div>
 		
-### Fun of the day
+## Fun of the day
 ![](https://pranjaldhole.github.io/images/evolution.jpg)
 
 ## About us
 <p>
-              Our Universe for writing posts.
               <br>
               <a href="https://mariaseltmann.github.io/blog/meet-jugan.html"><strong>Meet Jugan »</strong></a>
               <br>
