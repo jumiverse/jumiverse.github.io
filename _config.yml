@@ -1,68 +1,27 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-title: JuMiverse
-tagline: Blog site for the JuMiverse
-theme: minima
-masthead_title: Home
-url: ""
-paginate: 5
-paginate_path: /page:num/
-baseurl: ""
-permalink: pretty
-# permalink: /:year/:month/:title.html
+# Permalinks
+permalink:        pretty
 
+# Setup
+title:            JuMiverse
+tagline:          'Blog site for the JuMiverse'
+description:      'Blog site for the JuMiverse'
+url:              
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
-
-# Explicitly turn off the old code
-#paginate: nil
-#paginate_path: nil
-
-sass:
-  sass_dir: _sass
-  style: :compressed
-
-# Specify the author for blog posts
 author:
-  name: JuM
+  name:           'JuM'
 
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 3
-  offset: 2
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
- 
-# Disqus comments
-comments: true      # used to enable disqus comments on site
-dsq_shortname: jumiblog-template # disqus shortname
+paginate:         1
 
+# Custom vars
+version:          1.0.0
+
+# This is the list of pages to incldue in the header of the website.
 pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+
 
 
 
