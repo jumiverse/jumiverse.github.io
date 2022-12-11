@@ -27,8 +27,8 @@
     <header id="header">
       <h3 align="center">JuMiverse</h3>
       <p align="center">
-        <img src="JuMiverse.PNG" width="200" height="200">
-        <img src="JuMJ.PNG" width="200" height="200">
+        <img src="assets/images/JuMia.PNG" width="200" height="200">
+        <img src="assets/images/JuMJu.PNG" width="200" height="200">
       </p>
       <h1 align="center">Welcome to the JuMiverse!</h1>
       <!-- Menu link fragment #id should match a div id. Example: <a href="#home"> links to <div id="home"></div>  -->
