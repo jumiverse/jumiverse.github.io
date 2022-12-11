@@ -5,7 +5,7 @@
 </p>
  <h1 align="center">JuMiblog</h1>
  
-## Features : 
+## Categories 
 
 <html>  
  <body>
@@ -17,10 +17,6 @@
         <li><a href="#learn">:book: learn</a></li>
       </ul>                 
       </p>
- </body>
-</html>
-     
-
 <!-- Posts -->
 <ul id="posts">
 
@@ -35,6 +31,8 @@
     {% endfor %}
 
 </ul>
+ </body>
+</html>
 
 <div id="container">
       <div class="inner">
