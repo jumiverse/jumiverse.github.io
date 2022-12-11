@@ -28,65 +28,41 @@
       <h3 align="center">JuMiverse</h3>
       <p align="center">
         <img src="JuMiverse.PNG" width="200" height="200">
-        <img src="JuMJ.PNG" width="200" height="200">
-      </p>
-      <h1 align="center">Welcome to the JuMiverse!</h1>
-      <!-- Menu link fragment #id should match a div id. Example: <a href="#home"> links to <div id="home"></div>  -->
-      <p align="center">
-      <ul class="main-menu">
-        <li><a href="#home">home</a></li>
-        <li><a href="#blog">blog</a></li>
-        <li><a href="#contact">contact</a></li>
-      </ul>                 
-      </p>
-    </header>
-   
-    <div id="container">
-      <div class="inner">
-        <div id="content"> 
-          
-          <div id="home" class="content-region hide">
-            <h2>Home</h2>
-            <p>
-              Our Universe for writing posts.
-              <br>
-              <a href="/about/meet-jugan.html"><strong>Meet Jugan »</strong></a>
-              <br>
-              <a href="/about/meet-mia.html"><strong>Meet Mia »</strong></a>
-              <br>
-            </p>
-          </div>
-          
-          <div id="blog" class="content-region hide">
-            <h2>Blog</h2>
-            <p>
-              Our Blog.
-              <br>
-              <a href="blog.html"><strong>Explore the blog »</strong></a>
-              <br>
-            </p>
-          </div>
-          
-          <div id="contact" class="content-region hide">
-            <h2>Contact</h2>
-            <p>
-              Jugan
-              <br>
-              Mia
-            </p>
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  
-    <footer>  
-      powered by JuM
-    </footer>
-    
-    <!-- Load additional JS scripts here -->
-    <script type="text/javascript" src="script.js"></script>
-    
-  </body>
-</html>
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
 
