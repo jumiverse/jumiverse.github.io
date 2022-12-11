@@ -1,30 +1,40 @@
-
-# Welcome to JuMs blog
-
- <h2 align="center">JuMiblog</h2>
+ <h1 align="center">Welcome to the</h1>
  <p align="center">
   <br>
   <img src="../logo.png?sanitize=true" width="200px" height="200px">
 </p>
-
+ <h1 align="center">JuMiblog</h1>
+ 
 ## Features : 
 - 🥘 eat
 - 🚶 move
 - 😴 sleep
 - ❤️ repeat
 
-## December 10th
+<!-- Posts -->
+<ul id="posts">
+
+	{% for post in paginator.posts %}
+
+	  <li class="post">
+	  	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+	  </li>
+
+    {% endfor %}
+
+</ul>
 
 ### Fun of the day
 ![](https://pranjaldhole.github.io/images/evolution.jpg)
 
-## Inserting URLs
-Similar way external urls can be inserted like [this](http://www.example.com).
-{% highlight markdown %}
-[this](http://www.example.com)
-{% endhighlight %}
+## About us
+[Meet Mia](meet-mia.html)
+<br>
+[Meet Jugan](meet-jugan.html)
 
-## Headers
+## Formatting
 
 {% highlight markdown %}
  # This is a <h1> tag.
