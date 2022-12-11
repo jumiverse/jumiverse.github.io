@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Blog
 ---
 
  <h1 align="center">Welcome to the</h1>
@@ -10,11 +9,6 @@ title: Blog
 </p>
  <h1 align="center">JuMiblog</h1>
 
-# Blog Posts
-
-{% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
-{% endfor %}
 
 <div class="posts">
   {% for post in site.posts %}
