@@ -6,19 +6,20 @@
  <h1 align="center">JuMiblog</h1>
  
 ## Features : 
+
+<html>  
+ <body>
 <!-- Menu link fragment #id should match a div id. Example: <a href="#home"> links to <div id="home"></div>  -->
       <p align="center">
       <ul class="main-menu">
-        <li><a href="#eat">eat</a></li>
-        <li><a href="#move">move</a></li>
-        <li><a href="#sleep">sleep</a></li>
+        <li><a href="#eat">🥘 eat</a></li>
+        <li><a href="#move">🚶move</a></li>
+        <li><a href="#sleep">😴 sleep</a></li>
       </ul>                 
       </p>
-      
-- 🥘 eat
-- 🚶 move
-- 😴 sleep
-- ❤️ repeat
+ </body>
+</html>
+     
 
 <!-- Posts -->
 <ul id="posts">
@@ -35,6 +36,24 @@
 
 </ul>
 
+<div id="container">
+      <div class="inner">
+        <div id="content"> 
+          <div id="home" class="content-region hide">
+            <h2>Home</h2>
+            <p>
+              Our Universe for writing posts.
+              <br>
+              <a href="https://mariaseltmann.github.io/blog/meet-jugan.html"><strong>Meet Jugan »</strong></a>
+              <br>
+              <a href="https://mariaseltmann.github.io/blog/meet-mia.html"><strong>Meet Mia »</strong></a>
+              <br>
+            </p>
+          </div>
+	</div>
+    </div>
+</div>
+		
 ### Fun of the day
 ![](https://pranjaldhole.github.io/images/evolution.jpg)
 
