@@ -6,7 +6,7 @@
 
 title: JuMiverse
 tagline: Blog site for the JuMiverse
-theme: jekyll-theme-so-simple
+theme: Minima
 masthead_title: Home
 url: ""
 paginate: 5
