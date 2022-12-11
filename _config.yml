@@ -6,9 +6,8 @@
 title: JuMiverse
 description: > # this means to ignore newlines until "baseurl:"
   Shows how the jekyll-paginate-v2 gem can be used on a typical blog created in Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  sverrirs
+baseurl: "blog" # the subpath of your site, e.g. /blog
+url: "https://mariaseltmann.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -36,11 +35,4 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  
-############################################################
-# Old jekyll-paginate pagination logic
-#   Uncomment thew two entries below to demonstrate how this new gem
-#   retains backwards compatibility with the old pagination logic 
-#   AS OF JANUARY 2018 this code does not work anymore!
-#paginate: 3
-#paginate_path: "/legacy/page:num/"
+ 
