@@ -6,8 +6,11 @@
 
 title: JuMiverse
 tagline: Blog site for the JuMiverse
+theme: jekyll-theme-so-simple
+masthead_title: Home
 url: ""
-paginate: 1
+paginate: 5
+paginate_path: /page:num/
 baseurl: ""
 permalink: pretty
 # permalink: /:year/:month/:title.html
@@ -28,6 +31,9 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Explicitly turn off the old code
 #paginate: nil
