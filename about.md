@@ -6,7 +6,7 @@ title: About
 <header id="header">
       <h3 align="center">Meet JuM</h3>
       <p align="center">
-        <img src="/assets/images/JuMia.PNG" width="200" height="200">
-        <img src="/assets/images/JuMJu.PNG" width="200" height="200">
+        <a href="/about/meet-mia.md"><img src="/assets/images/JuMia.PNG" width="200" height="200">
+        <a href="/about/meet-jugan.html"><img src="/assets/images/JuMJu.PNG" width="200" height="200">
       </p>
 </header>
