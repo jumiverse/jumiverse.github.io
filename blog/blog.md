@@ -6,6 +6,15 @@
  <h1 align="center">JuMiblog</h1>
  
 ## Features : 
+<!-- Menu link fragment #id should match a div id. Example: <a href="#home"> links to <div id="home"></div>  -->
+      <p align="center">
+      <ul class="main-menu">
+        <li><a href="#eat">eat</a></li>
+        <li><a href="#move">move</a></li>
+        <li><a href="#sleep">sleep</a></li>
+      </ul>                 
+      </p>
+      
 - 🥘 eat
 - 🚶 move
 - 😴 sleep
