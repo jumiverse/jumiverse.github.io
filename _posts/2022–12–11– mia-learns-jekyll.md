@@ -2,7 +2,7 @@
 layout: post
 title: mia learns...Jekyll
 topics: blog
-tags: blog, jekyll
+tags: blog, mia learns..
 ---
 
 Today I learned how to setup a blog using Github pages and Jekyll.
