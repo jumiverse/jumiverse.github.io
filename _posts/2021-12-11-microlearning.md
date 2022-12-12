@@ -21,24 +21,24 @@ When I started my new job in the area of learning and upskilling in the tech fie
 # Steps
 ## Gather insights
 
-I read all I could find about the term and stored :
+I read all I could find about the term, here are some of the better posts :
 
 * [What is Microlearning](https://www.ispringsolutions.com/blog/what-is-microlearning)
 * [Myths about Microlearning](https://www.ispringsolutions.com/blog/microlearning-myths)
 
-In a nutshell, microlearning is a nice addition to other formats, since it enables to learn anytime and everywhere with a very short effort.
-However, it is important to connect it with context and show poeple how to dig deeper to understand topics in depth.
 
 ## Check examples
 
-A lot of nice examples can be found out there, here are some I found stunning:
+A lot of nice examples can be found out there:
 
 * [Microlearning examples](https://bigthink.com/plus/microlearning/)
 
 
 ## Experiment
 
-I started to create infographics, short videos and how tos to experiment with the format and gather feedback from my team.
-It turns out that some poeple need to get used to this style and it is important to show them the bigger picture to connect the dots.
+I started to create infographics, short videos and how tos to experiment with the format and gathered feedback from my team.
+
+In a nutshell, microlearning is a nice addition to other formats, since it enables to learn anything at anytime and everywhere in small digestable bites.
+However, it is important to connect it with context and dig deeper to understand topics in depth.
 
 **_#Stay Curious_**
