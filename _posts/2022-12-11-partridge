@@ -1,0 +1,45 @@
+---
+layout: post
+title: Jugan cooks...Partridge
+comments: true
+summary: setup a blog using Github pages and Jekyll
+lang: en
+gamla_disqus_satte: true
+tags: jugancooks
+---
+
+<div class="message">
+Partridge with Pasta and Carrots!
+</div>
+
+Today I learned how to setup a blog using Github pages and Jekyll.
+Here is how easy it is to get started.
+
+# Recipe
+I was already using GitHub to organize my personal work, so GitHub pages got my attention.
+My goal was to set up an easy to maintain and simplistic blog to write my stories and share my learnings. 
+
+# Steps
+## Follow the instructions
+
+I followed the quick-start tutorials on:
+
+* [Jekyll docs](http://jekyllrb.com/docs/home/)
+* [Jekyll tutorials](https://jekyllrb.com/docs/step-by-step/01-setup/)
+
+## Check examples
+
+After setting up a very basic layout, I dived deeper into some of the existing examples and adapted 
+step by step, using different layouts for pages and posts.
+
+* [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
+
+* Github repo with the sources of this blog can be found here: [https://github.com/vitalyrepin/vrepinblog](https://github.com/vitalyrepin/vrepinblog)
+
+## Experiment
+
+I roled up my sleves and experimented with advanced layouts, stylesheets, jekyll tags and much more.
+I prefere to keep it simple, so for me the combination of GitHub pages and Jekyll works great.
+Try it yourself!
+
+**_#Stay_Healthy**
