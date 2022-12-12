@@ -21,7 +21,7 @@ paginate_path: "/blog/page:num/"
 version:          1.0.0
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {'Blog':'/blog','About':'/about/about','Tags':'/tags','Archive':'/archive','Feed':'/atom.xml'}
+pages_list:       {'Blog':'/blog','About':'/about/about','Categories':'/categories','Archive':'/archive','Feed':'/atom.xml'}
 
 
 
