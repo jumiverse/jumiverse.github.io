@@ -11,10 +11,10 @@ title: About
 <body>
   <a href="/about/meet-mia/"><img src="/assets/images/JuMia.PNG?sanitize=true" width="160px" height="160px">
   </a>
-  <p><center>Meet mia</center></p>
+  <a href="/about/meet-mia/" Meet Mia</a>
   <br>
   <a href="/about/meet-jugan/"><img src="/assets/images/JuMJu.PNG?sanitize=true" width="160px" height="160px">
   </a>
-  <p><center>Meet Jugan</center></p>
+  <a href="/about/meet-jugan/" Meet Jugan</a>
  </body>
 </html>
