@@ -5,15 +5,35 @@ topics: blog
 tags: blog, mia learns..
 ---
 
+<div class="message">
+My first post in a new Jekyll-based blog!
+</div>
+
 Today I learned how to setup a blog using Github pages and Jekyll.
-Here is what I did:
+Here is how easy it is to get started.
 
 # Goal
-My goal was
+I was already using GitHub to organize my personal work, so GitHub pages got my attention.
+My goal was to set up an easy to maintain and simplistic blog to write my stories and share my learnings. 
 
 # Steps
-## 1. Follow the instructions
+## Follow the instructions
 
+I followed the quick-start tutorials on:
+
+* [Jekyll docs](http://jekyllrb.com/docs/home/)
+
+## Check examples
+
+* [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
+
+* Github repo with the sources of this blog can be found here: [https://github.com/vitalyrepin/vrepinblog](https://github.com/vitalyrepin/vrepinblog)
+
+## Experiment
+
+I roled up my sleves and experimented with layouts, stylesheets, jekyll tags and much more.
+I prefere to keep it simple, so for me the combination of GitHub pages and Jekyll works great.
+Try it yourself!
 
 **_#Stay Curious_**
 
