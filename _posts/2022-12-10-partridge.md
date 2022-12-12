@@ -12,34 +12,18 @@ tags: jugancooks
 Partridge with Pasta and Carrots!
 </div>
 
-Today I learned how to setup a blog using Github pages and Jekyll.
-Here is how easy it is to get started.
-
 # Recipe
-I was already using GitHub to organize my personal work, so GitHub pages got my attention.
-My goal was to set up an easy to maintain and simplistic blog to write my stories and share my learnings. 
+We wanted to have something different from chicken this time, so we gave the partridge a try.
 
 # Steps
 ## Follow the instructions
 
-I followed the quick-start tutorials on:
-
-* [Jekyll docs](http://jekyllrb.com/docs/home/)
-* [Jekyll tutorials](https://jekyllrb.com/docs/step-by-step/01-setup/)
-
-## Check examples
-
-After setting up a very basic layout, I dived deeper into some of the existing examples and adapted 
-step by step, using different layouts for pages and posts.
-
-* [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
-
-* Github repo with the sources of this blog can be found here: [https://github.com/vitalyrepin/vrepinblog](https://github.com/vitalyrepin/vrepinblog)
-
-## Experiment
-
-I roled up my sleves and experimented with advanced layouts, stylesheets, jekyll tags and much more.
-I prefere to keep it simple, so for me the combination of GitHub pages and Jekyll works great.
-Try it yourself!
+- Remove all the giblets.
+- Remove any feathers with tweezers
+- Add fat on the skin, e.g. olive oil
+- Season on the outside and on the inside with pepper and salt
+- Gently cook in oven with low temperature
+- Leave the meat to rest
+- Serve with carrots, self-made noodles and orange-sauce
 
 **_#Stay_Healthy**
