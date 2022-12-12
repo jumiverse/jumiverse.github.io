@@ -14,7 +14,7 @@ I am Mia, let me guide you through one of my typical days:
 **Waking up:**
 
 The alarm rings and I am rolling out of bed to grab my iPad and cuddle up on the cosy couch.
-I open up the **"morning-flow"**, which is an automatically generated file with all things I want to digest in the morning. I contains the **weather**, **joke**, **fact**, **ted talk**, **big think**, **recipe**, **appreciation** of the day and much more.
+I open up the **"morning-flow"**, which is an automatically generated file with all things I want to digest in the morning. It contains the **weather**, the **fact**, **appreciation**, **recipe** and **joke** of the day, a random **ted talk** and **big think** blog and much more.
 This way I am starting my day in a positive mood and at the same time with **big ideas** in mind.
 
 **Breakfast:**
