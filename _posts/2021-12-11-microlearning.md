@@ -5,7 +5,7 @@ comments: true
 summary: What microlearning is about
 lang: en
 gamla_disqus_satte: true
-tags: mialearns.., microlearning
+tags: mialearns microlearning
 ---
 
 <div class="message">
