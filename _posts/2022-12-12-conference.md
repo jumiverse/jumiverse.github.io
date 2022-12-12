@@ -1,6 +1,6 @@
 ---
 layout: post
-title: martin
+title: Mia at the conference
 comments: true
 summary: jumiverse blog
 lang: en
