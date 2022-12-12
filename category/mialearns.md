@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: mialearns"
+title: "category: mialearns"
 tag: mialearns
 ---
