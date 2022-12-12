@@ -4,7 +4,6 @@
   {% include head.html %}
   
   <body>
-    <hr>
     <div class="container content">
       <div class="masthead">
         <h3 class="masthead-title">
@@ -13,7 +12,7 @@
           {% for page in site.pages_list %}
               &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-
+          <hr>
         </h3>
       </div>
 
