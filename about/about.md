@@ -7,8 +7,10 @@ title: About
  <p align="center">
   <br>
   <a href="/about/meet-mia/"><img src="/assets/images/JuMia.PNG?sanitize=true" width="200px" height="200px">
+  <br>
   <a href="/about/meet-jugan/"><img src="/assets/images/JuMJu.PNG?sanitize=true" width="200px" height="200px">
+<br>
 </p>
-   
+<br>
 <h3 align="center">Click on image</h3>
  
