@@ -1,18 +1,11 @@
 ---
 layout: post
 title: martin
-topics: birthday
+comments: true
+summary: jumiverse blog
+lang: en
+gamla_disqus_satte: true
+tags: [blogging]
 ---
 
-# Happy Birthday!!!
-
-Alles Gute zum Geburtstag an das Bruderherz!!
-Wir wünschen Dir einfach alles, was Du Dir wünschst, und vor allem natürlich, dass Du und Amanda gesund bleiben und ihr weiterhin die Welt erkunden könnt!
-Was habt ihr denn vor zu Weihnachten und Silvester? Ich schätze mal, bei Euch wird es wieder südlicher, oder?
-
-Und dann natürlich vielen Dank für die Videos und den Hinweis auf Deinen Artikel im Springer Buch, die Leseprobe ist gleich auf dem Kindl gelandet! Jetzt brauche ich nur noch die Zeit, mich all dem in Ruhe zu widmen, aber nach Weihnachten wird es ja wieder ruhiger.
-
-Bis dahin erstmal eine besinnliche oder auch ereignisreiche Zeit in der Ferne!
-Und feiert Dein zartes Alter ordentlich :-)
-JuM (Jürgen und Maria)
-
+bday
