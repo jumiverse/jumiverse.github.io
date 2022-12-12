@@ -7,8 +7,4 @@ title:  meet jugan
 
 ## A Day in the Life of Jugan
 
-Todo
-
-## Jugan's pains
-
-## Jugan's gains
+Up to come
