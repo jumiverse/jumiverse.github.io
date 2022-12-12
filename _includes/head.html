@@ -1,7 +1,3 @@
-{% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
-
 <head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -17,6 +13,11 @@
     {% endif %}
   </title>
 
+  
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+  
   <!-- CSS -->
   <link rel="stylesheet" href="/assets/css/poole.css">
 
