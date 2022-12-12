@@ -2,13 +2,13 @@
 layout: page
 ---
 
- <h3 align="center">Welcome to the</h3>
- <p align="center">
+<h3 align="center">Welcome to the</h3>
+<p align="center">
   <br>
   <img src="../assets/images/logo.png?sanitize=true" width="100px" height="100px">
 </p>
- <h3 align="center">JuMiblog</h3>
- <hr>
+<h3 align="center">JuMiblog</h3>
+<hr>
 
 <div class="posts">
   {% for post in site.posts %}
@@ -28,17 +28,17 @@ layout: page
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+  <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
+  {% if paginator.page == 2 %}
+  <a class="pagination-item newer" href="/">Newer</a>
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+  <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+  {% endif %}
+  {% else %}
+  <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
