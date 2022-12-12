@@ -3,6 +3,11 @@ layout: default
 title: About
 ---
 
-<h3 align="center">Meet JuM</h3>
-<a href="/about/meet-mia/"><img src="/assets/images/JuMia.PNG" width="200" height="200" align="center">
-<a href="/about/meet-jugan/"><img src="/assets/images/JuMJu.PNG" width="200" height="200" align="center">
+<h1 align="center">Meet JuM</h1>
+ <p align="center">
+  <br>
+  <a href="/about/meet-mia/"><img src="/assets/images/JuMia.PNG?sanitize=true" width="200px" height="200px">
+  <a href="/about/meet-jugan/"><img src="/assets/images/JuMJu.PNG?sanitize=true" width="200px" height="200px">
+</p>
+ <h3 align="center">Click on image</h3>
+ 
