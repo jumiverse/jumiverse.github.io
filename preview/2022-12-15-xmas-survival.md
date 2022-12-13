@@ -11,7 +11,8 @@ How mia learns to tackle stress and insanity to survive before xmas
 </div>
 
 # Goal
-Mias goal: Reduce the holiday stress, stay in control of our time and focus on the essence of cristmas.
+Mias goal: 
+Reduce the holiday stress, stay in control of our time and focus on the essence of cristmas.
 
 Mias emotions about christmas are mixed.
 The idea to slow down and connect with your loved ones is appealing.
@@ -59,4 +60,4 @@ You can be in control of your time, this is not selfish, it is wise!
 When we feel in control, we can enjoy what we chose. And we give because we want to and not because we feel forced to.
 Mias wish: Take more control over your time, health and life, especially at those busy times.
 
-**_#Stay Curious_** **_#Stay Healthy_**
+**_#staycurious_** **_#stayhealthy_**
