@@ -12,7 +12,7 @@ tags: mialearns
 Why Microlearning?
 </div>
 
-Learn what what microlearning is about and how and when to use it.
+Learn what microlearning is about and how and when to use it.
 Let's dive deeper.
 
 # Goal
