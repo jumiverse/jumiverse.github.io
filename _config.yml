@@ -1,4 +1,6 @@
 # Dependencies
+theme: "minima"
+
 markdown:         redcarpet
 pygments:         true
 
