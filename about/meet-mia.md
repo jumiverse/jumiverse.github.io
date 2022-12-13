@@ -52,3 +52,5 @@ And at the end of the day, often a good **movie** takes us into another reality 
 > "Prioritize for energy"
 
 > Don’t stay around where you’re not heard or not happy. Life goes by too quickly. Always plenty of opportunities out there."
+
+**_#staycurious_** **_#stayhealthy_**
