@@ -13,7 +13,7 @@ How mia learns to tackle stress and insanity to survive before xmas
 </div>
 
 # Goal
-Mias goal: Reduce the holiday stress, stay connected and in control
+Mias goal: Reduce the holiday stress, stay in control of our time and focus on the essence of cristmas.
 
 Mias emotions that are connected with christmas are mixed.
 The idea to slow down and connect with your loved ones is appealing.
