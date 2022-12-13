@@ -45,6 +45,9 @@ And at the end of the day, often a good **movie** takes us into another reality 
 
 **Favourite Quotes:**
 > "In order to control myself I must first accept myself by going with and not against my nature.” ― Bruce Lee
+
 > "Once we focus, we can simplify."
+
 > "Prioritize for energy"
+
 > Don’t stay around where you’re not heard or not happy. Life goes by too quickly. Always plenty of opportunities out there."
