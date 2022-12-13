@@ -14,7 +14,7 @@ I am Mia, let me guide you through one of my typical days:
 **Waking up:**
 
 The alarm rings and I am rolling out of bed to grab my iPad and cuddle up on the cosy couch.
-I open up the **"morning-flow"**, which is an automatically generated file with all things I want to digest in the morning. It contains the **weather**, the **fact**, **appreciation**, **recipe** and **joke** of the day, a random **ted talk** and **big think** blog and much more.
+I open up the **"morning-flow"**, which is an automatically generated file with all things I want to digest in the morning. It contains the **weather**, the **fact**, **appreciation**, **recipe** and **joke** of the day, a random [**ted talk**](https://www.ted.com/) and [**big think**](https://bigthink.com/) blog and much more.
 This way I am starting my day in a positive mood and at the same time with **big ideas** in mind.
 
 **Breakfast:**
@@ -39,9 +39,12 @@ Sometimes it is all about being creative and removing things that do not create 
 **Evening:**
 
 If we do not connect with friends or family, evenings are **JuMtime**! 
-We try to **cook** together, talk the day through and plan our future.
-We draft ideas for small projects, such as beautifying our flat or organizing the next **vacation**.
+We try to **cook** together, talk the day through and **plan the future**.
+We draft ideas for small projects, such as beautifying our flat or organizing the next **trip**.
 And at the end of the day, often a good **movie** takes us into another reality until we fall asleep and dream about our future adventures.
 
 **Favourite Quotes:**
 > "In order to control myself I must first accept myself by going with and not against my nature.” ― Bruce Lee
+> "Once we focus, we can simplify."
+> "Prioritize for energy"
+> Don’t stay around where you’re not heard or not happy. Life goes by too quickly. Always plenty of opportunities out there."
