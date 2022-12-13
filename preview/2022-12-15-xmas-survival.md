@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Mia learns...how to survive before xmas
-comments: true
 summary: how to survive before xmas
 lang: en
-gamla_disqus_satte: true
 tags: mialearns
 ---
 
