@@ -9,7 +9,11 @@ title:  meet mia
 
 Welcome to our JuMiverse!
 
-I am Mia, let me guide you through one of my typical days:
+This is Mia. 
+Mia works in the software department of a huge company. She has a calling: she loves to learn about each and everything. She loves to grow and find efficient solutions to the problems of today’s busy world. 
+She also wants to share her knowledge and to help people to find solutions on their own, to constantly grow and continuously learn to make their lives easier.
+
+Let Mia guide you through one of her typical days:
 
 **Waking up:**
 
