@@ -1,12 +1,11 @@
 ---
 layout: page
-title:  meet mia
 --- 
 
 <img src="/assets/images/JuMia.PNG" width="200" height="200">
 
 
-## Who is Mia?
+## Meet Mia
 Mia works in the software department of a huge company. She has a calling: she loves to learn about each and everything. She loves to grow and find efficient solutions to the problems of today’s busy world. 
 She also wants to share her knowledge and to help people to find solutions on their own, to constantly grow and continuously learn to make their lives easier.
 
