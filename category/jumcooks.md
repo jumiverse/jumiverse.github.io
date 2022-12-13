@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "category: jumcooks"
-tag: jugancooks
+tag: jumcooks
 ---
