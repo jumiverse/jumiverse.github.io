@@ -42,3 +42,6 @@ If we do not connect with friends or family, evenings are **JuMtime**!
 We try to **cook** together, talk the day through and plan our future.
 We draft ideas for small projects, such as beautifying our flat or organizing the next **vacation**.
 And at the end of the day, often a good **movie** takes us into another reality until we fall asleep and dream about our future adventures.
+
+**Favourite Quotes:**
+> "In order to control myself I must first accept myself by going with and not against my nature.” ― Bruce Lee
