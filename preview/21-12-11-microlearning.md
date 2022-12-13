@@ -53,4 +53,4 @@ More information can be found out there:
 In a nutshell, microlearning is a nice addition to other formats, since it enables to learn anything at anytime and everywhere in small digestable bites.
 However, it is important to connect it with context and dig deeper to understand topics in depth.
 
-**_#Stay Curious_**
+**_#staycurious_**
