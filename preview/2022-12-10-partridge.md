@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Jugan cooks...Partridge
-comments: true
 summary: how to cook partridge
 lang: en
-gamla_disqus_satte: true
 tags: jugancooks
 ---
 
