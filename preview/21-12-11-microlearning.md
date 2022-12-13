@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Mia learns...Microlearning
-comments: true
 summary: What microlearning is about
 lang: en
-gamla_disqus_satte: true
 tags: mialearns
 ---
 
