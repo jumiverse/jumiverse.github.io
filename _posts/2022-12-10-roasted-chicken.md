@@ -3,7 +3,7 @@ layout: post
 title: Jugan cooks...roasted chicken
 summary: how to cook roasted chicken
 lang: en
-tags: jugancooks
+tags: jugancooks jumcooks
 ---
 
 <div class="message">
