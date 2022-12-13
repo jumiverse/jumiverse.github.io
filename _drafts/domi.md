@@ -7,7 +7,27 @@ topics: treffen
 # Lieber domi
 
 Wie schön von Dir zu lesen!
-Ich habe an so einigen Stellen wissend genickt, mitgelitten und auch geschmunzelt!
+Ich habe an so einigen Stellen 
+- wissend genickt:
+> "die (etwas späte) Erkenntnis, dass es absolut keine Sicherheiten im Leben gibt, sofern man nicht zu den Leuten gehört, für die Geld kein Problem ist. Ich habe mir bisher nicht sonderlich viel Gedanken darüber gemacht, aber je näher Mietsteigerung, Corona-Wirtschaftskrise und Altersvorsorge rücken,.."
+- mitgelitten: 
+> "Es ist zwar absolut erniedrigend, wenn fremde Leute durch die eigene Wohnung laufen und alles genau inspizieren, ungefragt hinter den Duschvorhang gucken und auch vor der Abstellkammer voller privatem Gerümpel nicht halt machen, wenn sie ungeniert schon bei der Erstbesichtigung ihren Besitzanspruch aus jeder Pore triefen lassen. Man fühlt sich dann wie ein Hamster, der mitsamt dem Käfig herumgereicht und verkauft wird"
+
+> "Ich bin nur, ausgelöst durch diese Sache, die mich wochenlang in Panik leben hat lassen, in ein ziemliches „Sommerloch“ gefallen.."
+
+- und auch herzlich gelacht, weil Du einfach so schön anschaulich schreibst!! (Ich habs schinmal geschrieben, aber ich glaube wirklich, Du hast da ein Talent!): 
+> "Bei mir wurde jetzt aber ein Schalter umgelegt, ab jetzt gilt es, ebenfalls STEINREICH zu werden, haha! Ganze Häuser kaufen will ich, und auch so blöde Sprüche bringen wie unser bisheriger Vermieter: „Ach, wissen’S, Immobilien sind für mich fast sowas wie ein Hobby geworden“, während ich in meinen Zweit(!)porsche Cayenne einsteige, so wie der Typ."
+
+Und was sach ich zum Vorschlag, uns im Anapan zu Treffen?
+Auf jeden Fall! Jaaa! Sehr gerne!
+Und lass uns einfach zulassen, dass es am Anfang komisch ist und wir "alt" geworden sind und all das !
+Wenn zwei das verstehen, dann doch wir! Und genau:
+> Keine blöden Erfolgsvergleiche und gegenseitigen Bewertungen sollen uns erwarten, sondern einfach nur ein Austausch über diese seltsame Sache, die sich Leben nennt.
+
+Wenn es für Dich ok ist, dann wäre es zeitlich für mich nach Weihnachten am besten. Also wie bei Dir dann nach dem 28, da kann ich fast alles einrichten! Annapam, Kaffeetrinken und philosophieren und eventuell danach einen kleinen Spaziergang machen oder so? 
+
+Ich freue mich drauf!!
+Die Maria
 
 
 # Liebe Maria,
