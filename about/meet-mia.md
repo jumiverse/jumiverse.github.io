@@ -32,7 +32,7 @@ I love an early lunch with food that gives me energy, such as beans with vegetab
 
 **Afternoon:**
 
-The afternoon is typically filled with more sessions or **experimental work** all around upskilling and learning.
+The afternoon might start with more sessions or **experimental work** all around upskilling and learning.
 I am eager to get new input on how to work smarter, not harder and I try a lot of new formats and methods to make life easier and to **simplify**.
 Sometimes it is all about being creative and removing things that do not create value or joy.
 
