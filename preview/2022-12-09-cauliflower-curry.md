@@ -14,6 +14,7 @@ Cauliflower curry with carrots and coco milk
 This is one of Mias' favourites, it's fairly quick to make, healthy and delicious.
 
 # Ingredients
+For 1 serving:
 - Onion, garlic, ginger
 - 1 tsp coconut oil
 - Coconut milk
