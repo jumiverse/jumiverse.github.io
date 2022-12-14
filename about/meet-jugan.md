@@ -9,7 +9,7 @@ Jugan is a **modern McGyver**:
 he will find (sometimes unusual) solutions for almost any problem related to **craftmanship, electricty or maintenance of house and home**.
 Let Jugan show you how he shapes his typical days:
 
-## A Day in the Life of Jugan
+# A Day in the Life of Jugan
 
 **Waking up:**
 
