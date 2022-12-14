@@ -3,7 +3,7 @@ layout: post
 title: Mia cooks...mushroom and pepper skillet
 summary: how to cook a quick mushroom and pepper skillet
 lang: en
-tags: miacooks jumcooks
+tags: miacooks jumcook
 ---
 
 <div class="message">
