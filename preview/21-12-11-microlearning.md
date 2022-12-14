@@ -3,7 +3,7 @@ layout: post
 title: Mia learns...Microlearning
 summary: What microlearning is about
 lang: en
-tags: mialearns
+tags: jumlearn
 ---
 
 <div class="message">
