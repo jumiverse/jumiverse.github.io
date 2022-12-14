@@ -5,12 +5,11 @@ title:  meet jugan
 
 <img src="/assets/images/JuMJu.PNG" width="200" height="200">
 
-## A Day in the Life of Jugan
-
-Jugan is a **modern McGyver**: he will find (sometimes unusual) solutions for almost any problem related to **craftmanship, electricty or maintenance of house and home**.
-
-## A Day in the Life of Mia
+Jugan is a **modern McGyver**: 
+he will find (sometimes unusual) solutions for almost any problem related to **craftmanship, electricty or maintenance of house and home**.
 Let Jugan show you how he shapes his typical days:
+
+## A Day in the Life of Jugan
 
 **Waking up:**
 
