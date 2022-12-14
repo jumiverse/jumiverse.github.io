@@ -18,12 +18,12 @@ It takes about half an hour to prepare and around 6 hours to simmer.
 - Bony organic chicken from the farm
 - Salt
 - Pepper
-- Vegetables such as carrots, celery, leek and onions
-- 2 bay leaves
+- Vegetables such as carrots, celery, leek and onions, garlic
+- Bay leaves, Juniper berries, Marjoram, Pepper
 - Water
 
 # Steps
-- From the chicken rmove all the giblets
+- From the chicken remove all the giblets
 - Wash inside and outside and pat dry
 - Chop carrots, celery, leek and onions
 - Place all ingredients including water in a soup kettle
