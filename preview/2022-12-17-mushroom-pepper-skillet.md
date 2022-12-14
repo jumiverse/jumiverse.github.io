@@ -1,4 +1,26 @@
+---
+layout: post
+title: Mia cooks...mushroom and pepper skillet
+summary: how to cook a quick mushroom and pepper skillet
+lang: en
+tags: miacooks jumcooks
+---
+
+<div class="message">
+Mia cooks a fast and healthy mushroom and pepper skillet in tomato sauce
+</div>
+
 # Mushroom and pepper skillet
+This is one of Mias' favourites, it's fairly quick to make, healthy and delicious.
+
+# Ingredients
+- Onion, garlic
+- 1 Pepper
+- 2 Mushrooms
+- Salt
+- Pepper
+- Tomato sauce
+- parsley
 
 # Steps
 - Wash and chop the mushrooms
@@ -14,3 +36,5 @@
 Mushrooms are generally a good source of minerals, such as iron.
 Our body needs it for blood formation and oxygen transport in the blood.
 Paprika scores with vitamin C.
+
+_**stayhealthy**_
