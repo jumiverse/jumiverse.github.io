@@ -35,7 +35,6 @@ For 1 serving:
 - Salt and pepper
 
 # Healthy because
-For health-conscious poeple, cauliflower is a hit:
 Cabbage not only has a high vitamin C content, but also so-called glucosinolates, which are responsible for the typical aroma.
 These substances protect our cells from free radicals, which promote diseases and also premature aging.
 
