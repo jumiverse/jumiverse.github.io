@@ -54,4 +54,6 @@ And at the end of the day, often a good **movie** takes us into another reality 
 
 > Don’t stay around where you’re not heard or not happy. Life goes by too quickly. Always plenty of opportunities out there."
 
+Enjoy the JuMiverse, enjoy learning, enjoy your life!
+
 **_#staycurious_** **_#stayhealthy_**
