@@ -3,7 +3,7 @@ layout: post
 title: Mia cooks...cauliflower curry
 summary: how to cook a delicious cauliflower curry
 lang: en
-tags: miacooks jumcooks
+tags: miacooks jumcook
 ---
 
 <div class="message">
