@@ -14,9 +14,6 @@ Let Jugan show you how he shapes his typical days:
 **Waking up:**
 
 I am an **early bird**, I typically wake up around 6 and like to read some news before I get up and shower.
-
-**Breakfast:**
-
 Next I will have short breakfast together with Mia before starting my workday.
 
 **Morning:**
@@ -30,7 +27,7 @@ I love to make **plans for traveling** or for events such as christmas.
 
 **Lunch**
 
-Lunch might be simple bread and sausage or leftovers from the day before.
+Lunch might be simple bread with cold cuts or leftovers from the day before.
 I love to finish lunch with a strong **espresso**.
 
 **Afternoon**
@@ -44,6 +41,9 @@ Evenings are **JuMtime** and I love to **cook** for Mia, **bake bread** and try 
 One example is what I call **lazy cooking**, where I prepare the meal for the next day already upfront.
 I like to **optimize** my day and am always eager to find the best solution for everything. So sometimes I tend to overthink.
 I am a **family person** and really care about my inner circle, so I am always there for them and try to make them a priority.
+
+# Motto
+> Get things done!
 
 **_staycurious_** **_stayhealthy_**
 
