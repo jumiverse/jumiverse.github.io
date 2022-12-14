@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "category: jumcooks"
-tag: jumcooks
+title: "category: jumcook"
+tag: jumcook
 ---
