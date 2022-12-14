@@ -131,7 +131,6 @@ hr {
   border: 0;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #fff;
-  color: #EF6D3D; /* Mias */
 }
 
 abbr {
@@ -233,7 +232,7 @@ tbody tr:nth-child(odd) th {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3D;
+  color:#79d7e8;
 }
 a:focus {
   outline: thin dotted;
