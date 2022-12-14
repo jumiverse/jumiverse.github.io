@@ -49,8 +49,8 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 17px;
-  line-height: 2;
+  font-size: 15px;
+  line-height: 1;
 }
 @media (min-width: 38rem) {
   html {
@@ -232,7 +232,7 @@ tbody tr:nth-child(odd) th {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#21b7c2;
+  color:#EF6D3D;
 }
 a:focus {
   outline: thin dotted;
