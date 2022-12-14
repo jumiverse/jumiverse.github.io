@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  meet jugan
 --- 
 
 <img src="/assets/images/JuMJu.PNG" width="200" height="200">
 
+# Meet Jugan
 Jugan is a **modern McGyver**: 
 he will find (sometimes unusual) solutions for almost any problem related to **craftmanship, electricty or maintenance of house and home**.
 Let Jugan show you how he shapes his typical days:
