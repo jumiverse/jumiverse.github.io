@@ -11,23 +11,23 @@ A rich mixed-paella with chicken, scampi and veggies
 </div>
 
 # Mixed-paella
-This dish tastes like vacation and it reminds JuM at the times in Barcelona, where big fat paella pans are made from fresh ingrediants and with a lot of time.
+This dish tastes like vacation and it reminds JuM of their times in Barcelona, where big fat paella pans are made from fresh ingrediants and with a lot of time.
 
 # Ingredients
-For 2 servings
+For 2 servings:
 - 75 g shrimps or mixed seafood (crabs, mussels, squid etc.)
 - 250 g chicken breast fillet
 - 4 cherry tomatoes
-- 1 bell peppe
+- 1 bell pepper
 - 1 onion, garlic
 - 80 g paella rice
 - tomato sauce
 - 1/2 liters of chicken broth
 - 100 ml dry white wine
-- ¼ tsp paprika powder
+- 1 tsp paprika powder
 - 1 tsp turmeric
-- salt and pepper, saffron threads
-- olive oil
+- Salt and pepper, saffron threads
+- Olive oil
 - 1 lemon
 
 # Steps
