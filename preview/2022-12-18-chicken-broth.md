@@ -3,7 +3,7 @@ layout: post
 title: Jugan cooks...chicken broth
 summary: how to prepare chicken broth
 lang: en
-tags: jugancooks jumcook
+tags: jumcook
 ---
 
 <div class="message">
