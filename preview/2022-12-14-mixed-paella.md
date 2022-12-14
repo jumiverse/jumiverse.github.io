@@ -3,7 +3,7 @@ layout: post
 title: Jugan cooks...mixed-paella
 summary: how to prepare a mixed-paella
 lang: en
-tags: jugancooks jumcooks
+tags: jugancooks jumcook
 ---
 
 <div class="message">
