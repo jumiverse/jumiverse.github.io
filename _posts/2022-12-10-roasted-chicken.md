@@ -24,7 +24,7 @@ Here is how to prepare the treat:
 - Chicken spice
 - For salad: Carrots, tomatoes, cucumber, lettuce, vinegar
 
-## Steps
+# Steps
 - Remove all the giblets
 - Wash inside and outside and pat dry
 - Massage spice into the skin with a little oil
@@ -34,7 +34,7 @@ Here is how to prepare the treat:
 - Serve with:
   - mixed salad including carrots, tomatoes, cucumber, lettuce, vinegar, olive oil, pepper, salt
 
-#Healthy because
+# Healthy because
 Chicken is a great source if protein. If raised without antibiotics and free range, the meat is a good choice for your body.
 Combined with a mixed salad with rainbow veggies, such as carrots, tomatoes, cucumber or bell pepper the meal contains antioxidants, vitamins and fibre.
 
