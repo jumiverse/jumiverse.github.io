@@ -11,7 +11,7 @@ A rich mixed-paella with chicken, scampi and veggies
 </div>
 
 # Mixed-paella
-todo
+This dish tastes like vacation and it reminds JuM at the times in Barcelona, where big fat paella pans are made from fresh ingrediants and with a lot of time.
 
 # Ingredients
 For 2 servings
@@ -44,6 +44,8 @@ For 2 servings
 - Serve with saffron threads and lemon
 
 # Healthy because
-Safran is 
+Garlic and onions possess anti-fungal and anti-bacterial qualities. 
+The lean protein from seafood and chicken give your body all the building blocks it needs. 
+And spices like saffron and tumeric not only give a special taste but also have an anti-inflammatory effect.
 
 _**stayhealthy**_
