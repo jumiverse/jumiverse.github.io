@@ -49,8 +49,8 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 15px;
-  line-height: 1;
+  font-size: 17px;
+  line-height: 2;
 }
 @media (min-width: 38rem) {
   html {
