@@ -224,6 +224,25 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/* Mias*/
+
+/**
+ * Links
+ */
+a {
+  font-weight: normal;
+  text-decoration: none; 
+  color:#EF6D3D;
+}
+a:focus {
+  outline: thin dotted;
+}
+
+small {
+  font-size: 75%;
+}
+/* end Mias*/
+
 
 /*
  * Custom type
