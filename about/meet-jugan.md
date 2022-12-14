@@ -45,5 +45,5 @@ One example is what I call **lazy cooking**, where I prepare the meal for the ne
 I like to **optimize** my day and am always eager to find the best solution for everything. So sometimes I tend to overthink.
 I am a **family person** and really care about my inner circle, so I am always there for them and try to make them a priority.
 
-**_staycurious_** **_stayhealty**
+**_staycurious_** **_stayhealthy**
 
