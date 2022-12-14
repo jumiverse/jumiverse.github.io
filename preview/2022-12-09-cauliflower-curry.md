@@ -1,8 +1,21 @@
+---
+layout: post
+title: Mia cooks...cauliflower curry
+summary: how to cook a delicious cauliflower curry
+lang: en
+tags: miacooks jumcooks
+---
+
+<div class="message">
+Cauliflower curry with carrots and coco milk
+</div>
+
 # Cauliflower Curry
 
 # Ingredients
 - Onion, garlic, ginger
 - 1 tsp coconut oil
+- Coconut milk
 - Broth
 - Salt
 - Pepper
