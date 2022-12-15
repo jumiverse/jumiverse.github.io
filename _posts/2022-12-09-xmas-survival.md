@@ -11,10 +11,10 @@ How mia learns to tackle stress and insanity to survive before xmas
 </div>
 
 # Goal
-Mias goal: 
+Mia's goal: 
 Reduce the holiday stress, stay in control of our time and focus on the essence of cristmas.
 
-Mias emotions about christmas are mixed.
+Mia's emotions about christmas are mixed.
 The idea to slow down and connect with your loved ones is appealing.
 But when reality hits you, things look different.
 The days befor christmas are filled with busyness which is pushing poeple to limits sometimes. And when poeple reach their limits, conflicts are the consequence.
@@ -22,7 +22,7 @@ So for quite a while, Mia is concerned with the idea to get out of the hamsters 
 
 # Steps
 ## Clearly picture your ideal christmas
-Mias ideal of christmas is to slow down and give mind and body some rest.
+Mia's ideal of christmas is to slow down and give mind and body some rest.
 Listening to piano or violine songs and cuddling up in a blanket with some hot tea calm Mia down and she gets back energy. And what a nice experience to step into a white winter wonderland and breath in the fresh air, get cold a bit just to heat up again afterwards at home.
 What comes in the way are all the real or sometimes imaginary duties we fill our lifes with: 
 - Buying presents because it is the tradition, not because you just found something that reminds you of your sibling.
@@ -58,6 +58,6 @@ The rarest thing we have is time, so think about it as a precious gift as well.
 # Take aways
 You can be in control of your time, this is not selfish, it is wise!
 When we feel in control, we can enjoy what we chose. And we give because we want to and not because we feel forced to.
-Mias wish: Take more control over your time, health and life, especially at those busy times.
+Mia's wish: Take more control over your time, health and life, especially at those busy times.
 
 **_#staycurious_** **_#stayhealthy_**

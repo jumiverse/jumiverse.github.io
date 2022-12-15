@@ -11,7 +11,7 @@ Cauliflower curry with carrots and coco milk
 </div>
 
 # Cauliflower Curry
-This is one of Mias' favourites, it's fairly quick to make, healthy and delicious.
+This is one of Mia's favourites, it's fairly quick to make, healthy and delicious.
 
 # Ingredients
 For 1 serving:

@@ -11,7 +11,7 @@ Mia cooks a fast and healthy mushroom and pepper skillet in tomato sauce
 </div>
 
 # Mushroom and pepper skillet
-Another one of Mias' simple favourites.
+Another one of Mia's simple favourites.
 
 # Ingredients
 For 1 serving:
