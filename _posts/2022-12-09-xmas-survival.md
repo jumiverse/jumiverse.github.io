@@ -18,7 +18,7 @@ Mia's emotions about christmas are mixed.
 The idea to slow down and connect with your loved ones is appealing.
 But when reality hits you, things look different.
 The days befor christmas are filled with busyness which is pushing poeple to limits sometimes. And when poeple reach their limits, conflicts are the consequence.
-So for quite a while, Mia is concerned with the idea to get out of the hamsters wheel, simplify life again and focus on the important stuff.
+So for quite a while, Mia is thinking about how to get out of the hamsters wheel before christmas, simplify life again and focus on the important stuff.
 
 # Steps
 ## Clearly picture your ideal christmas
@@ -28,6 +28,7 @@ What comes in the way are all the real or sometimes imaginary duties we fill our
 - Buying presents because it is the tradition, not because you just found something that reminds you of your sibling.
 - Or visiting all the xmas markets with friends and collegues, even if you feel your body needs rest
 - Or stuffing the whole family together in one room, overeating without moving and eventually bringing up topics that bear conflict.
+
 Mia reads a lot about how to avoid these artificial duties, focus on precious time, calming down and listening to your needs.
 
 ## Manage expectations & set boundaries
