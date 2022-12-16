@@ -11,7 +11,7 @@ A rich mixed-paella with chicken, scampi and veggies
 </div>
 
 # Mixed-paella
-This dish tastes like vacation and it reminds JuM of their times in Barcelona, where big fat paella pans are made from fresh ingrediants and with a lot of time.
+This dish tastes like vacation and it reminds JuM of their times in Barcelona, where big fat paella pans are made from fresh ingredients and with a lot of time.
 
 # Ingredients
 For 2 servings:
