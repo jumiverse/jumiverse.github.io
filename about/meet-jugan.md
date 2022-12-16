@@ -23,7 +23,7 @@ Whenever I can, I try to move during meetings to get me thinking.
 I am a **logical person** and like to **listen and think stuff through** before stating my opinion.
 On a Saturday or Sunday I prefer to get out of the house as soon as possible and **move in the woods** together with Mia.
 This calms me down and I can reflect the past week or think about the future.
-I love to make **plans for traveling** or for events such as christmas.
+I love to make **plans** for events such as christmas, celebrating the new years' eve in the **Caribbean Sea** or traveling to **Barcelona** for work.
 
 **Lunch**
 
