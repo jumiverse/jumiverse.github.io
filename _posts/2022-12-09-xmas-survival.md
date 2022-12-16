@@ -37,15 +37,15 @@ Often poeple think that they are not in control of their needs and time. Too man
 Thus it is so important to set boundaries. Without boundaries, everyone loses.  
 
 Before we commit to anything, we need to set our boundaries and ask ourselves: 
-what are our limits in terms of time, money and energy. We need to make our boundaries explicit and create a plan that works you and your inner circle.
+what are our limits in terms of time, money and energy. We need to make our boundaries explicit and create a plan that works for us and our inner circle.
 
 ## Focus on what you can control
 You can control to make your needs transparent. What is joy for one individual can be horror for the other, so we need to make this clear. How can we expect from others that they read our minds?
 Your needs are as valid as other poeples needs, its not black and white, they can live in parallel as long as we do not violate the boundaries of others.
-And to aviid that, we need to know those boundaries!
+And to avoid that, we need to know those boundaries!
 
 ## Take some time out and say NO
-We also need to articulate, what is "off the table". Say "No" if a request violates your boundaries - at work or in private life. You need to say No if your health is at risk or you do not have enough energy anymore - as the latter often leads to the former. If you are not healthy, you hardly can spread joy and help others.
+We also need to articulate, what is "off the table". Say "No" if a request violates your boundaries - at work or in private life. You need to say No if your health is at risk or you do not have enough energy anymore - as the latter often leads to the former. If you are not healthy, you can hardly spread joy and help others.
 
 ## Get enough sleep
 Prioritize your sleep!
