@@ -6,7 +6,7 @@ layout: page
 
 
 ## Meet Mia
-Mia has a passion: she loves to learn about each and everything. 
+Mia has a passion: she loves to [learn](/category/jumlearn/) about each and everything. 
 She loves to grow and find efficient solutions to the problems of today’s busy world. 
 She also wants to share her knowledge and to help people to find solutions on their own, to constantly grow and continuously learn to make their lives easier.
 
@@ -35,13 +35,13 @@ I love an early lunch with food that gives me energy, such as beans with vegetab
 **Afternoon:**
 
 The afternoon might start with more sessions or **experimental work** all around upskilling and learning.
-I am eager to get new input on how to work smarter, not harder and I try a lot of new formats and methods to make life easier and to **simplify**.
+I am eager to get new input on how to work smarter, not harder and I try a lot of new formats and methods to make life easier and to [simplify](/category/jumsimplify/).
 Sometimes it is all about being creative and removing things that do not create value or joy.
 
 **Evening:**
 
 If we do not connect with friends or family, evenings are **JuMtime**! 
-We try to **cook** together, talk the day through and **plan the future**.
+We try to [cook](/category/jumcook/) together, talk the day through and **plan the future**.
 We draft ideas for small projects, such as beautifying our flat or organizing the next **trip**.
 And at the end of the day, often a good **movie** takes us into another reality until we fall asleep and dream about our future adventures.
 
