@@ -37,7 +37,7 @@ At the weekend they might be filled with **McGyver-ing**, such as building solut
 
 **Evening**
 
-Evenings are **JuMtime** and I love to **cook** for Mia, **bake bread** and try out new ways to simplify life.
+Evenings are **JuMtime** and I love to [**cook**](/category/jumcook/) for Mia, **bake bread** and try out new ways to [simplify life](/category/jumsimplify/).
 One example is what I call **lazy cooking**, where I prepare the meal for the next day already upfront.
 I like to **optimize** my day and am always eager to find the best solution for everything. So sometimes I tend to overthink.
 I am a **family person** and really care about my inner circle, so I am always there for them and try to make them a priority.
