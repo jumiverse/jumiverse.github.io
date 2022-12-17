@@ -18,7 +18,7 @@ Mia's emotions about christmas are mixed.
 The idea to slow down and connect with your loved ones is appealing.
 But when reality hits you, things look different.
 The days befor christmas are filled with busyness which is pushing poeple to limits sometimes. And when poeple reach their limits, conflicts are the consequence.
-So for quite a while, Mia is thinking about how to get out of the hamsters wheel before christmas, simplify life again and focus on the important stuff.
+So for quite a while, Mia is thinking about how to get out of the hamster wheel before christmas, simplify life again and focus on the important stuff.
 
 # Steps
 ## Clearly picture your ideal christmas
