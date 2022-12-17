@@ -8,7 +8,7 @@ layout: page
 ## Meet Mia
 Mia has a passion: she loves to [learn](/category/jumlearn/) about each and everything. 
 She loves to grow and find efficient solutions to the problems of today’s busy world. 
-She also wants to share her knowledge and to help people to find solutions on their own, to constantly grow and continuously learn to make their lives easier.
+She also wants to share her knowledge and to help people to find answers on their own and make their lives easier.
 
 ## A Day in the Life of Mia
 Let Mia guide you through one of her typical days:
@@ -16,7 +16,7 @@ Let Mia guide you through one of her typical days:
 **Waking up:**
 
 The alarm rings and I am rolling out of bed to grab my iPad and cuddle up on the cosy couch.
-I open up the **"morning-flow"**, which is an automatically generated file with all things I want to digest in the morning. It contains the **weather**, the **fact**, **appreciation**, **recipe** and **joke** of the day, a random [**ted talk**](https://www.ted.com/) and [**big think**](https://bigthink.com/) blog and much more.
+I open up the **"morning-flow"**, which is an automatically generated file with all things I want to digest in the morning. It contains the **weather**, the **fact**, **appreciation**, **recipe** and **joke** of the day, a random [ted talk](https://www.ted.com/) and [big think](https://bigthink.com/) blog and much more.
 This way I am starting my day in a positive mood and at the same time with **big ideas** in mind.
 
 **Breakfast:**
@@ -25,8 +25,8 @@ On a weekday I typically start my day with a simple tea and coffee with coco mil
 
 **Morning:**
 
-The morning is typically filled with meetings to synch with my team of experts or holding **coaching** sessions. If possible, I try to integrate some **"meet&walk"** or short and simple workouts.
-I like to be prepared and take time to work on drafts for compelling conference talks or bigger **workshops** with an efficient and engaging agenda.
+The morning is normally filled with meetings to synch with my team of experts or hold **coaching** sessions. If possible, I try to integrate some **"meet&walk"** or short and simple workouts.
+I like to be prepared and take time to work on drafts for compelling (conference) talks or bigger **workshops** with an efficient and engaging agenda.
 
 **Lunch:**
 
@@ -35,7 +35,7 @@ I love an early lunch with food that gives me energy, such as beans with vegetab
 **Afternoon:**
 
 The afternoon might start with more sessions or **experimental work** all around upskilling and learning.
-I am eager to get new input on how to work smarter, not harder and I try a lot of new formats and methods to make life easier and to [simplify](/category/jumsimplify/).
+I am eager to get new input on how to work smarter, not harder, and I try a lot of new formats and methods to make life easier and to [simplify](/category/jumsimplify/).
 Sometimes it is all about being creative and removing things that do not create value or joy.
 
 **Evening:**
