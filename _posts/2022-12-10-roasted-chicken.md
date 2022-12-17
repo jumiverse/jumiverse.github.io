@@ -35,7 +35,7 @@ Here is how to prepare the treat:
   - mixed salad including carrots, tomatoes, cucumber, lettuce, vinegar, olive oil, pepper, salt
 
 # Healthy because
-Chicken is a great source if protein. If organic and from free range and raised without antibiotics, the meat is a good choice for your body.
+Chicken is a great source of protein. If organic and from free range and raised without antibiotics, the meat is a good choice for your body.
 Combined with a mixed salad with rainbow veggies, such as carrots, tomatoes, cucumber or bell pepper the meal contains antioxidants, vitamins and fibre.
 
 **_#stayhealthy_**
