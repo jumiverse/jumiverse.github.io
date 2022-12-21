@@ -46,5 +46,6 @@ I am a **family person** and really care about my inner circle, so I am always t
 > Get things done!
 
 > "Architects, independent to the core, want to shake off other people’s expectations and pursue their own ideas. Architects care about depth and quality.”
+
 **_staycurious_** **_stayhealthy_**
 
