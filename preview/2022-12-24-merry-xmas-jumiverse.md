@@ -1,16 +1,18 @@
 ---
 layout: post
-title: JuM simplify...x mas
+title: JuM jumenjoy...x mas
 summary: merry x mas
 lang: en
-tags: jumsimplify
+tags: jumenjoy
 ---
 
 <div class="message">
 Merry X-mas to JuM
 </div>
-
+<p>&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;<p>
+  
 # Merry Christmas to you
 [click me >>](jumiverse.mp4)
 
-:heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart:
+
+<p>&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;<p>
