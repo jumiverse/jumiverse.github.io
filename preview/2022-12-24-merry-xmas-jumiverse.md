@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JuM jumenjoy...x mas
+title: JuM enjoy...x mas
 summary: merry x mas
 lang: en
 tags: jumenjoy
