@@ -7,10 +7,14 @@ tags: jumenjoy
 ---
 
 <div class="message">
-Merry X-mas to JuM
+<h1>Merry Christmas to JuM!</h1>
 </div>
+
+![Alt text](x-mas.png)
+
+
   
-# Merry Christmas to you
+# Our present:
 [click me >>](jumiverse.mp4)
 
 
