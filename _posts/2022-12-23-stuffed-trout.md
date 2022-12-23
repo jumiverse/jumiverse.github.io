@@ -19,15 +19,15 @@ Grilled trout stuffed with garlic and herbs is lean, tasty and easy to prepare.
 - Salt
 - Pepper
 - Italien herbs
-- Lwmon
-- For salad: Rocket with carrots and tomatoes
+- Lemon
 - 1/2 spoon Butter
 - 1 spoon Olive Oil
+- For salad: Rocket with carrots and tomatoes
 
 # Steps
-- Wash inside and outside and pat dry
+- Rinse trout inside and out and pat dry
 - Chop garlic
-- Fill trout with garlic, parsley, lemon, butter, salt, pepper and olive oil
+- Stuff trout with garlic, parsley, lemon, butter, salt, pepper and olive oil
 - Place on aluminum foil with olive oil and butter on top
 - Wrap and close tight
 - Bake in oven for 20 min with 200 degrees
