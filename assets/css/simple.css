@@ -166,10 +166,30 @@ h3 {
 }
 
 /* Format links & buttons */
+/* Mia's*/
+
+/**
+ * Links
+ */
+a {
+  font-weight: normal;
+  text-decoration: none; 
+  color:#902711;
+}
+a:focus {
+  outline: thin dotted;
+}
+
+small {
+  font-size: 75%;
+}
+/* end Mia's*/
+
+/*
 a,
 a:visited {
   color: var(--accent);
-}
+}*/
 
 a:hover {
   text-decoration: none;
