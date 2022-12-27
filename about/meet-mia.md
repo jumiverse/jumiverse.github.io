@@ -59,5 +59,3 @@ And at the end of the day, often a good **movie** takes us into another reality 
 Enjoy the JuMiverse, enjoy learning, enjoy your life!
 
 **_#staycurious_** **_#stayhealthy_**
-
-[Merry x mas](/preview/2022-12-24-merry-xmas-jumiverse/)
