@@ -21,6 +21,7 @@ Land | Kultur | Natur | [Sicherheit](https://www.reisereporter.de/artikel/14638-
 
 
 [Maverricks Surf-Villa](http://www.the-maverick.com/)
+[Homeboat-Albufeira)](https://www.booking.com/hotel/pt/the-homeboat-company-albufeira.de.html?aid=888668&sid=f28f1d09e0a0324260eea3bfd4b67ae4&all_sr_blocks=622834803_343779865_2_1_0&checkin=2023-03-24&checkout=2023-04-07&dest_id=171&dest_type=country&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=622834803_343779865_2_1_0&hpos=1&matching_block_id=622834803_343779865_2_1_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=622834803_343779865_2_1_0__210276&srepoch=1672215582&srpvid=cef73a8e7f4b0144&type=total&ucfs=1&activeTab=main)
 
  ![Map Route](https://kommwirmachendaseinfach.de/wp-content/uploads/2020/04/Portugal-Reiseblog-Karte-Map-Route.jpg)
 
@@ -62,3 +63,9 @@ Land | Kultur | Natur | [Sicherheit](https://www.reisereporter.de/artikel/14638-
 <br>
 <hr>
 <br>
+
+Wichtig:
+- Sicheres Reisen, selbst lieber nicht Auto fahren
+- Angenehme Athmosphäre, relaxed Reisen, kein Stress
+- Brauche meinen Schlaf und auch Zeit für mich
+- 
