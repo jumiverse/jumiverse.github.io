@@ -3,7 +3,7 @@ layout: post
 title: Mia cooks...nizza-salad
 summary: how to prepare a quick baked feta
 lang: en
-tags: jumcooks
+tags: jumcook
 ---
 
 <div class="message">
