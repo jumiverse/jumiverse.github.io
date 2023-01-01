@@ -3,7 +3,7 @@ layout: post
 title: Mia cooks...nizza-salad
 summary: how to prepare a quick and filling nizza-salad
 lang: en
-tags: miacooks jumcooks
+tags: jumcooks
 ---
 
 <div class="message">
