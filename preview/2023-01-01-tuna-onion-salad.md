@@ -3,7 +3,7 @@ layout: post
 title: Mia cooks...tuna-onion-salad
 summary: how to prepare a 5 minute tuna-onion-salad
 lang: en
-tags: miacooks jumcooks
+tags: jumcook
 ---
 
 <div class="message">
