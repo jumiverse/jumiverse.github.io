@@ -11,7 +11,7 @@ A 5 minute recipe for Tuna-Onion-Salad
 </div>
 
 # Tuna-Onion-Salad
-This recipe only gakes 5 minutes and is healthy and delicious.
+This recipe only takes 5 minutes and is healthy and delicious.
 
 # Ingredients
 For 1 serving:
