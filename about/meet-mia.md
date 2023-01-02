@@ -26,7 +26,7 @@ On a weekday I typically start my day with a simple tea and coffee with coco mil
 **Morning:**
 
 The morning is normally filled with meetings to synch with my team of experts or hold **coaching** sessions. If possible, I try to integrate some **"meet&walk"** or short and simple workouts.
-I like to be prepared and take time to work on drafts for compelling (conference) talks or bigger **workshops** with an efficient and engaging agenda.
+I like to be prepared and take time to work on drafts for new e-learnings, hands-on dojos, compelling (conference) talks or bigger **workshops** with an efficient and engaging agenda.
 
 **Lunch:**
 
@@ -35,6 +35,7 @@ I love an early lunch with food that gives me energy, such as beans with vegetab
 **Afternoon:**
 
 The afternoon might start with more sessions or **experimental work** all around upskilling and learning.
+I play around with automation scripts for fun and to help me to achieve my goals.
 I am eager to get new input on how to work smarter, not harder, and I try a lot of new formats and methods to make life easier and to [simplify](/category/jumsimplify/).
 Sometimes it is all about being creative and removing things that do not create value or joy.
 
