@@ -43,18 +43,23 @@ What to do:
 - Do not rescue.
 - Do not play two against one Drama Triangle game.
 
-
+When somebody is angry
 - “I can see that you are upset/angry/sad because ...” 
 - “It’s hard when ..You’d like to ...”
 - "Do you need anything from me right now?”
 - "I am available to support you to solve this.."
-- "What options do you see..?
 
+When somebody plays the victim
+- "What options do you see..?
 - “Are you willing to.."
-- “You look like you could use a hug. Would you like a hug?”“Thank you, I am aware of that” or “Thank you, I wasn’t aware of that.”
+- “You look like you could use a hug. Would you like a hug?”
+
+When sombody accuses you
+- “Thank you, I am aware of that” or “Thank you, I wasn’t aware of that.”
+
+When somebody does not listen
 - “I don’t believe you heard me. Would you please listen to what I am saying?"
-- 
-- 
+
 ## Links
 
 More information can be found out there:
