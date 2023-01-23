@@ -7,7 +7,7 @@ tags: jumlearn
 ---
 
 <div class="message">
-What is the drama traingle
+“When you take charge of your life, there is no longer a need to ask permission of other people or society at large. When you ask permission, you give someone veto power over your life.” - Geoffrey F. Abert
 </div>
 
 Learn what games poeple play and how you can break this loop and improve your reltionship and communication
@@ -27,6 +27,26 @@ Clearly stating what you need instead of playing the game of "the victim, rescue
 - from victim to vulnerable: Victims accept their vulnerability and realise they have agency too. They take responsibility and become problem-solvers. 
 
 5. Identify your life script
+
+
+What to do:
+- Stop complaining and acting like a victim. 
+- Refuse to let others rescue you and Ask directly for what you want from others. 
+- stop listening to their complaints. 
+- When they play the victim: ask them, “What do you want from me?”
+- 
+- Do not contribute to making anyone into a bad guy.
+- Do not take sides.
+- Do not ignore or discount feelings.
+- Do not discount the importance of the situation.
+- Do not create secrets.
+- Do not rescue.
+- Do not play two against one Drama Triangle game.
+
+
+- “I can see that you are upset/angry/sad because ...” 
+- “It’s hard when ..You’d like to ...”
+- "Do you need anything from me right now?”
 
 ## Links
 
