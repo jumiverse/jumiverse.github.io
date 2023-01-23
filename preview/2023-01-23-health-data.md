@@ -15,11 +15,14 @@ Learn how to create digrams that tell more about your health
 # Goal
 Clearly vizualising your health status
 
-1. gather your data as csv
-2. Plot
-steps
-heart rate
-food
+1. Gather your data as csv
+2. Load the data from csv file into a pandas DataFrame
+3. Extract statistics
+4. Analyze, and plot the data
+5. Plot pie chart to see the percentage of different data, such as
+- steps
+- heart rate
+- food
 5. Identify improvement points
 
 ## Links
