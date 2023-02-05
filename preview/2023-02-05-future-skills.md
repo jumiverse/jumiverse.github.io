@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mia learns...about future skills
-summary: future skills to succeed in a fast moving world
+summary: which skills will we need to succeed in a fast moving world?
 lang: en
 tags: jumlearn
 ---
@@ -14,6 +14,9 @@ tags: jumlearn
 
 # Goal
 Upskilling Humankind for a better future with future skills
+
+> a report by Dell and the Institute for the Future predicts that 85 percent of jobs that will be available in 2030 haven't been invented yet.
+Realizing 2030: A Divided Vision of the Future; Dell; https://www.delltechnologies.com/content/dam/delltechnologies/assets/perspectives/2030/pdf/Realizing-2030-A-Divided-Vision-of-the-Future-Summary.pdf
 
 ## What are those future skills?
 ## Why do we need future skills?
