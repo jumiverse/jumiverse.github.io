@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Mia cooks...nizza-salad
+title: Mia cooks...baked feta
 summary: how to prepare a quick baked feta
 lang: en
 tags: jumcook
 ---
 
 <div class="message">
-Healthy mediterranen baked oat cheese
+Healthy mediterranen baked goat cheese
 </div>
 
 # Baked-Feta
