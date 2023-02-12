@@ -3,7 +3,7 @@ layout: post
 title: Mia learns...about future skills
 summary: which skills will we need to succeed in a fast moving world?
 lang: en
-tags: jumlearn
+tags: jumlearn #futureskills
 ---
 
 <div class="message">
