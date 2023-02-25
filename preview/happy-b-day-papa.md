@@ -1,6 +1,5 @@
 # Alles Gute zum Geburtstag!!
 
-<hl>
 
 Lieber Papa,
 
