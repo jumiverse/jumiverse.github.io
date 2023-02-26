@@ -30,6 +30,8 @@ When you frame the past negatively, your goals become reactive to and based on y
 
 
 > "..most people don’t spend much time thinking about their Future Self. Caught up in the short-term dopamine of the present, like randomly scrolling through social media, binge eating, or binge spending, seeking short-term rewards creates long-term costs. When you engage in short-term reward seeking that produces negative long-term consequences, then you’re costing your Future Self. 
+
+
 > Everything you do is either a deficit to or an investment in your Future Self. 
 > Do you want your Future Self to be broke and unhealthy, or fit and free?
 
