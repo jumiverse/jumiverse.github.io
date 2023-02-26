@@ -42,5 +42,7 @@ When you frame the past negatively, your goals become reactive to and based on y
 
 > "**How much ownership are you willing to take of your own time?** The more you say “No” to lesser goals, the stronger your commitment grows to creating the life and outcomes you want."
 
+> "If you’re always working or always available and never fully recovering, then flow, creativity, and high performance are practically impossible."
+
 
 _**#staycurious**_
