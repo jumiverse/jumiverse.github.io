@@ -40,5 +40,7 @@ When you frame the past negatively, your goals become reactive to and based on y
 
 > "**Your time is the clearest indicator of your commitment.** You can’t hide how you spend your time. To improve freedom of money, relationships, and purpose, own your Freedom of Time."
 
+> "**How much ownership are you willing to take of your own time?** The more you say “No” to lesser goals, the stronger your commitment grows to creating the life and outcomes you want."
+
 
 _**#staycurious**_
