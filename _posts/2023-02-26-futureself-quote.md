@@ -36,9 +36,9 @@ When you frame the past negatively, your goals become reactive to and based on y
 
 > “To me, ‘busy’ implies that the person is out of control of their life.” —Derek Sivers
 
-> "Your schedule reflects your priorities. Your schedule reflects what you’re actually committed to. Most schedules are dominated by urgent battles and lesser goals such as meetings and Zoom calls. Rarely does someone’s schedule reflect and prioritize their Future Self over their current self."
+> "**Your schedule reflects your priorities. Your schedule reflects what you’re actually committed to.** Most schedules are dominated by urgent battles and lesser goals such as meetings and Zoom calls. Rarely does someone’s schedule reflect and prioritize their Future Self over their current self."
 
-> "Your time is the clearest indicator of your commitment. You can’t hide how you spend your time. To improve freedom of money, relationships, and purpose, own your Freedom of Time."
+> "**Your time is the clearest indicator of your commitment.** You can’t hide how you spend your time. To improve freedom of money, relationships, and purpose, own your Freedom of Time."
 
 
 _**#staycurious**_
