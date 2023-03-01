@@ -31,17 +31,16 @@ Clearly stating what you need instead of playing the game of "the victim, rescue
 
 What to do:
 - Stop complaining and acting like a victim. 
-- Refuse to let others rescue you and Ask directly for what you want from others. 
+- Refuse to let others rescue you and ask directly for what you want from others. 
 - stop listening to their complaints. 
 - When they play the victim: ask them, “What do you want from me?”
-- 
 - Do not contribute to making anyone into a bad guy.
 - Do not take sides.
 - Do not ignore or discount feelings.
 - Do not discount the importance of the situation.
 - Do not create secrets.
 - Do not rescue.
-- Do not play two against one Drama Triangle game.
+- Do not play the "two against one" game.
 
 When somebody is angry
 - “I can see that you are upset/angry/sad because ...” 
@@ -62,11 +61,11 @@ When somebody does not listen
 
 ## Links
 
-More information can be found out there:
+More information can be found out here:
 
 * [Understanding the Drama Triangle vs. Presence](https://youtu.be/ovrVv_RlCMw)
 * [The Karpman Drama Triangle ](https://youtu.be/r0b5oCWSBqU)
-*  [Nutshell: How to escape the Drama Triangle](https://www.changeboard.com/article-details/17186/nutshell-how-to-escape-the-drama-triangle/)
+* [Nutshell: How to escape the Drama Triangle](https://www.changeboard.com/article-details/17186/nutshell-how-to-escape-the-drama-triangle/)
 
 
 # Take aways
