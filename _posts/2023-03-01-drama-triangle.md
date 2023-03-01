@@ -10,10 +10,12 @@ tags: jumlearn
 “When you take charge of your life, there is no longer a need to ask permission of other people or society at large. When you ask permission, you give someone veto power over your life.” - Geoffrey F. Abert
 </div>
 
-Learn what games poeple play and how you can break this loop and improve your reltionship and communication
+Learn what games poeple play and how you can break this loop and improve your relationship and communication.
 
 # Goal
 Clearly stating what you need instead of playing the game of "the victim, rescuer and villain."
+
+# Steps
 
 1. Spot the game
 2. Identify your go to role
