@@ -12,15 +12,17 @@ tags: jumlearn
 
 Learn what games poeple play and how you can break this loop and improve your relationship and communication.
 
-# Goal
+## Goal
 Clearly stating what you need instead of playing the game of "the victim, rescuer and villain."
 
-# Steps
+## Steps
 
 1. Spot the game
 2. Identify your go to role
 3. Avoid the trigger or hook, refuse to play the game
 4. Move to assertive, caring and vulnerable 
+5. Identify your life script
+
 
 - from persecutor to assertive: use assertiveness to offer constructive challenge to help others to develop. 
 
@@ -28,10 +30,7 @@ Clearly stating what you need instead of playing the game of "the victim, rescue
 
 - from victim to vulnerable: Victims accept their vulnerability and realise they have agency too. They take responsibility and become problem-solvers. 
 
-5. Identify your life script
 
-
-What to do:
 - Stop complaining and acting like a victim. 
 - Refuse to let others rescue you and ask directly for what you want from others. 
 - stop listening to their complaints. 
@@ -70,6 +69,6 @@ More information can be found out here:
 * [Nutshell: How to escape the Drama Triangle](https://www.changeboard.com/article-details/17186/nutshell-how-to-escape-the-drama-triangle/)
 
 
-# Take aways
+## Take aways
 By leaving the drama triangle, you take over responsibility for your life, ask for what you need and improve your relationships.
 
