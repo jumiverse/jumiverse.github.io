@@ -10,20 +10,19 @@ tags: jumlearn
 “When you take charge of your life, there is no longer a need to ask permission of other people or society at large. When you ask permission, you give someone veto power over your life.” - Geoffrey F. Abert
 </div>
 
-Learn what games poeple play and how you can break this loop and improve your relationship and communication.
-
 ## Goal
-Clearly stating what you need instead of playing the game of "the victim, rescuer and villain."
+Learn what games people play and how you can break this loop and improve your relationship and communication.
+Clearly state what you need instead of playing the game of "the victim, rescuer and villain."
 
 ## Steps
 
 1. Spot the game
-2. Identify your go to role
+2. Identify your go to role - victim, rescuer or villain
 3. Avoid the trigger or hook, refuse to play the game
 4. Move to assertive, caring and vulnerable 
 5. Identify your life script
 
-
+**How to**
 - from persecutor to assertive: use assertiveness to offer constructive challenge to help others to develop. 
 
 - from rescuer to caring: Rescuers show their caring side, listening to others and helping them to find their own way. 
