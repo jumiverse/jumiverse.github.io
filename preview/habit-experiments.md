@@ -17,6 +17,22 @@ on my 3 priorities:
 - autonomy
 - quality time and people
 
+## Steps
+
+1. Wake up at 6 am
+2. Directlzy get dressed into training clothes
+3. Make pot of tea and drink while lokking outside the window
+4. Breakfast automation: egg or porridge or broth + tomatoe juice + coffee and tea
+5. Taking vitamins etc.
+6. Take a deep breath of fresh air outside, wim hofs breathing technique
+8. Start training routine: Yoga, 
+9. Add training routine: Yoga, strength
+10. Add training routine: Yoga, strength, treadmill
+11. Add training routine: Yoga, strength, treadmill, stretch
+
+
+
+
 
 
 ## Links
