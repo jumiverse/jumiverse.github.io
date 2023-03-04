@@ -38,17 +38,19 @@ on my 3 priorities:
 19. Shower
 20. Take on badass clothes or Braid hair with rings etc.
 21. Block first 25 min for pomodoro creativity
-22. Enforced breaks: Every hour to take in some fresh air and move for 5 min.
-23. Lunch automation: Bowl, soup or vegetable pan
-24. Take a deep breath of fresh air outside with wim hofs breathing technique
-25. Pack something to throw or give away, clothes etc.
-26. Plan next day and say NO to meetings that do not fit into priorities
-27. Tailor next day into futureskills with creativity, chores etc.
-28. Play Piano for at least 10 minutes to calm down
-29. Cook healthy
-30. Write short blog post
+22. Get creative with perrs+ 1 genuine compliment a day
+23. Enforced breaks: Every hour to take in some fresh air and move for 5 min.
+24. Lunch automation: Bowl, soup or vegetable pan
+25. Take a deep breath of fresh air outside with wim hofs breathing technique
+26. Pack something to throw or give away, clothes etc.
+27. Plan next day and say NO to meetings that do not fit into priorities
+28. Tailor next day into futureskills with creativity, chores etc.
+29. Play Piano for at least 10 minutes to calm down
+30. Cook healthy
+31. Write short blog post
 
-
+> **A routine is just a structure that allows us to make time for the good stuff**, and shouldn't be another unrealistic expectation we place on ourselves.
+After all, the perfect schedule doesn't equate to **living a perfect life. There is no such thing.** We needn't strive to follow another person's idealised routine in the hope of attaining their version of success. **All we can do is experiment with what works for us.**
 
 
 ## Links
