@@ -18,16 +18,24 @@ Priorities:
 - quality time and people
 
 ## Steps
+For one week:
+1. Wake up one hour earlier at 6 
+2. Make tea & breakfast
+3. Train with music and productivity podcast
+4. Shower
+5. Start workday with creative work first
+
+## Result
 
 
 ## Links
 Inspired by:
 
-* [extraordinaryroutines](https://extraordinaryroutines.com/habit-experiment-2)
+* [extraordinaryroutines](https://extraordinaryroutines.com)
 
 
 # Take aways
 I can build my own story by following my intuition of what I could do. And then do it with intention.
-#intentuition
+**#intentuition**
 
-**#staycurious**
+**#staycurious** **stayhealthy**
