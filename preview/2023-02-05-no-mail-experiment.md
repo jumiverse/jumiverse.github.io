@@ -17,23 +17,49 @@ Instead of choosing urgent over important, and thus choosing is other people’s
 From being a leaves in the wind, reacting to any breeze of email or chat notification, 
 I want to prioritize with intention and Ignore the busywork to focus on the meaningful time to think, reflect and create.
 
-## Steps
+# Steps
 For one week:
-1. Wke up and get ready without checking the phone
-2. Turn on notebook without opening outlook or teams
+1. Wake up and get ready without checking the phone
+2. Turn on notebook without opening Outlook or Teams
 3. Start workday with creative work first
 
-## Result
-The 
+Step| Mo | Tue | Wed | Thu |Fr|
+--------|-------- | -------- | -------- | -------- |-------- |
+ Wake up | :ok: |  |  |  ||
+ Turn on notebook |:ok: |    |   |  |  | 
+ Start with creative work first |:ok: |    |   |  |  | 
 
-## Links
-Inspired by:
+## Day 1
+Waking up, having breakfast and getting ready without checking the phone is quite an easy thing, just don't touch the phone. 
 
-* [extraordinaryroutines](https://extraordinaryroutines.com)
+The second point seems to prove way harder, since I am obliged to join the daily of the team at 8:00. 
+So I turn on the notebook without starting the messanger and e-mail and join the daily via phone instead. 
+I plug in my earpods and participate without looking at the notifications. 
+
+Of course my attention is consumed by the topics, so it does not really help to concetntrate on creative work.
+But at least I manage to not get sucked into the "purgatory of the mondain" by reacting right away to other peoples needs. 
+
+
+## Day 2
+
+## Day 3
+
+## Day 4
+
+## Day 5
+
+
+# Result
+
+
+# Links
 
 
 # Take aways
-I can build my own story by following my intuition of what I could do. And then do it with intention.
+Just follwoing the routine to not check messages first thing in the morning definetly helped to focus on the more important things and staying out of the hamsters wheel at least for an hour.
+However, it is hard to defend my time and focus in the morning with already scheduled meetings.
+I have done the first step towards productivity. 
+As a next experiment I will get up one hour earlier for a week to combine this experiment with really having focus time for creative work first thing in the morning.
 **#intentuition**
 
 **#staycurious** **stayhealthy**
