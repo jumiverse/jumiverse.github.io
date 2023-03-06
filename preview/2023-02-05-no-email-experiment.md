@@ -36,7 +36,7 @@ The second point seems to prove way harder, since I am obliged to join the daily
 So I turn on the notebook without starting the messanger and e-mail and join the daily via phone instead. 
 I plug in my earpods and participate without looking at the notifications. 
 
-Of course my attention is consumed by the topics, so it does not really help to concetntrate on creative work.
+Of course my attention is consumed by the topics, so it does not really help to concentrate on creative work.
 But at least I manage to not get sucked into the "purgatory of the mondain" by reacting right away to other peoples needs. 
 
 
