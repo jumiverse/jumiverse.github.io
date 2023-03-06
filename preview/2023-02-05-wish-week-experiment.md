@@ -39,11 +39,15 @@ The second point wish I have is to write a blog post in the mroning.
 I just granted myself this wish and wrote a blog post about my [no-mail-experiment](2023-02-05-no-mail-experiment.md)
 Second wish granted, yeah!
 
-The third one is a bit more tricky: I want to focus on my #futureskill of the day: today it is #leadership.
-So whenever throughout the day I have the chance to practice #leadership, especially to help others to grow, I will take the chance.
+The third one is something, I can only influence partially: 
+I am sharing my learnings in an interview style with a small team of Scrum Masters. The goal is to make them curious and then ask them, if they would like to join and actively participate.
+l wish, that we can at least reach 1 Scrum Master.
+The result at the end of the day: all of them want to join in. What a great outcome, wish granted!
 
 
 ## Day 2
+The third one is a bit more tricky: I want to focus on my #futureskill of the day: today it is #leadership.
+So whenever throughout the day I have the chance to practice #leadership, especially to help others to grow, I will take the chance.
 
 ## Day 3
 
@@ -59,10 +63,7 @@ So whenever throughout the day I have the chance to practice #leadership, especi
 
 
 # Take aways
-Just follwoing the routine to not check messages first thing in the morning definetly helped to focus on the more important things and staying out of the hamsters wheel at least for an hour.
-However, it is hard to defend my time and focus in the morning with already scheduled meetings.
-I have done the first step towards productivity. 
-As a next experiment I will get up one hour earlier for a week to combine this experiment with really having focus time for creative work first thing in the morning.
+
 **#intentuition**
 
 **#staycurious** **stayhealthy**
