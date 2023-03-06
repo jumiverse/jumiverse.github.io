@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Curiosity experiments...what if I start the day without checking e-mail?
-summary: One week of starting the day without checking e-mail or other notifications for one hour.
+title: Curiosity experiments...what if I grant myself 3 wishes each day for one week?
+summary: One week of starting the day with 3 wishes and granting them myself.
 lang: en
 tags: jumlearn
 ---
@@ -11,33 +11,36 @@ A one week experiment.
 </div>
 
 # Goal
-Establish a healthy relationship with my devices and taking ownership of my time.
-Get rid of the electronic leash and use it with intention instead of mindlessly reacting.
-Instead of choosing urgent over important, and thus choosing is other people’s priorities over our own, 
-From being a leaves in the wind, reacting to any breeze of email or chat notification, 
-I want to prioritize with intention and Ignore the busywork to focus on the meaningful time to think, reflect and create.
+I want to be autonomous using self-efficacy.
+I want to live with intention and design my future.
+So this experiment will be about wishes I have for myself.
+I will be clear about my wishes, state them each day and fullfill them myself.
+Thus my wishes need to be about stuff, that I can influence myself. 
+
 
 # Steps
 For one week:
-1. Wake up and get ready without checking the phone
-2. Turn on notebook without opening Outlook or Teams
-3. Start workday with creative work first
+1. Wake up and reflect on my wishes
+2. Fulfilling them by the end of the day
 
-Step| Mo | Tue | Wed | Thu |Fr|
+Wish | Mo | Tue | Wed | Thu |Fr|
 --------|-------- | -------- | -------- | -------- |-------- |
- Wake up | :ok: |  |  |  ||
- Turn on notebook |:ok: |    |   |  |  | 
- Start with creative work first |:ok: |    |   |  |  | 
+ Wish 1 | :ok: |  |  |  ||
+ Wish 2 |:ok: |    |   |  |  | 
+ Wish 3 |:ok: |    |   |  |  | 
 
 ## Day 1
-Waking up, having breakfast and getting ready without checking the phone is quite an easy thing, just don't touch the phone. 
+The alarm goes off by 6 o clock.
+Of course I am sleepy, but I open up the shades and also let in fresh air.
+I tell myself my wish: I wish to get up so that I can be ready with breakfsat before 7, so I can use the time to invest in my health. I count to 5 and off I go.
+First wish granted, yeah!
 
-The second point seems to prove way harder, since I am obliged to join the daily of the team at 8:00. 
-So I turn on the notebook without starting the messanger and e-mail and join the daily via phone instead. 
-I plug in my earpods and participate without looking at the notifications. 
+The second point wish I have is to write a blog post in the mroning. 
+I just granted myself this wish and wrote a blog post about my [no-mail-experiment](2023-02-05-no-mail-experiment.md)
+Second wish granted, yeah!
 
-Of course my attention is consumed by the topics, so it does not really help to concetntrate on creative work.
-But at least I manage to not get sucked into the "purgatory of the mondain" by reacting right away to other peoples needs. 
+The third one is a bit more tricky: I want to focus on my #futureskill of the day: today it is #leadership.
+So whenever throughout the day I have the chance to practice #leadership, especially to help others to grow, I will take the chance.
 
 
 ## Day 2
