@@ -25,11 +25,12 @@ For one week:
 
 Step| Mo | Tue | Wed | Thu |Fr|
 --------|-------- | -------- | -------- | -------- |-------- |
- Wake up | :ok: |  |  |  ||
- Turn on notebook |:ok: |    |   |  |  | 
+ Wake up | :ok: | :ok: |  |  ||
+ Turn on notebook |:ok: | :ok:   |   |  |  | 
  Start with creative work first |:ok: |    |   |  |  | 
 
-## Day 1
+
+# Result
 Waking up, having breakfast and getting ready without checking the phone is quite an easy thing, just don't touch the phone. 
 
 The second point seems to prove way harder, since I am obliged to join the daily of the team at 8:00. 
@@ -38,21 +39,6 @@ I plug in my earpods and participate without looking at the notifications.
 
 Of course my attention is consumed by the topics, so it does not really help to concentrate on creative work.
 But at least I manage to not get sucked into the "purgatory of the mondain" by reacting right away to other peoples needs. 
-
-
-## Day 2
-
-## Day 3
-
-## Day 4
-
-## Day 5
-
-
-# Result
-
-
-# Links
 
 
 # Take aways
