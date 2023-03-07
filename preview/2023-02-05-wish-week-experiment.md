@@ -42,12 +42,27 @@ Second wish granted, yeah!
 The third one is something, I can only influence partially: 
 I am sharing my learnings in an interview style with a small team of Scrum Masters. The goal is to make them curious and then ask them, if they would like to join and actively participate.
 l wish, that we can at least reach 1 Scrum Master.
-The result at the end of the day: all of them want to join in. What a great outcome, wish granted!
+The result at the end of the day: all of them want to join in. What a great outcome, I am humbled and surprised that my wish is granted!
 
 
 ## Day 2
-The third one is a bit more tricky: I want to focus on my #futureskill of the day: today it is #leadership.
-So whenever throughout the day I have the chance to practice #leadership, especially to help others to grow, I will take the chance.
+
+## Day 2
+Since I went to sleep with a headache last night, my first wish for today is to take care about my brain. I wish to do so by taking deep breaths of fresh air outside every couple of hours. I take the first step in the morning outside of the terrasse- check.
+
+The second one is a bit more tricky: I want to focus on my #futureskill of the day: today it is #leadership.
+So whenever throughout the day I have the chance to practice #leadership, especially to help others to grow, I will try to focus on them and let them shine, but also challenge them in a kind way.
+So 
+- saying "Thank you" or just 
+- giving them the stage 
+are behaviours I can practice today to fullfill this wish.
+
+The third wish is rather tough, it is about helping others. I have a tendency to jump in first whenm help is needed and since I have a lot of meetings today, there might be a couple of hidden traps. With the focus on #leadership and letting others shine, I wish to also get myself out of the helpers-syndrom and try to not offer help today if it does not help to support others to grow.
+So my wish is to ask myself: 
+- Do they really need my help here or am I playing the rescuer? 
+- Would it help them more, if they figure it out by themselves and does that in return help them to grow? 
+
+At the end of the day, did I grant myself the wishes ?
 
 ## Day 3
 
