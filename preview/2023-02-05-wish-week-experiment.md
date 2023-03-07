@@ -58,7 +58,7 @@ So
 are behaviours I can practice today to fullfill this wish.
 
 The third wish is rather tough, it is about helping others. I have a tendency to jump in first whenm help is needed and since I have a lot of meetings today, there might be a couple of hidden traps. With the focus on #leadership and letting others shine, I wish to also get myself out of the helpers-syndrom and try to not offer help today if it does not help to support others to grow.
-So my wish is to ask myself: 
+So my wish is to apply #curiosity, a skill included in #leadership, and ask myself: 
 - Do they really need my help here or am I playing the rescuer? 
 - Would it help them more, if they figure it out by themselves and does that in return help them to grow? 
 
