@@ -25,9 +25,9 @@ For one week:
 
 Step| Mo | Tue | Wed | Thu |Fr|
 --------|-------- | -------- | -------- | -------- |-------- |
- Wake up | :ok: | :ok: |  |  ||
- Turn on notebook |:ok: | :ok:   |   |  |  | 
- Start with creative work first |:ok: |    |   |  |  | 
+ Wake up | :ok: | :ok: | 🆗 |  ||
+ Turn on notebook |:ok: | :ok:   | 🆗  |  |  | 
+ Start with creative work first |:ok: |  🆗  |  🆗 |  |  | 
 
 
 # Result
