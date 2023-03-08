@@ -75,11 +75,19 @@ For today, I see my wish granted, but I will definitely need to stretch myself m
 
 
 ## Day 3
-Wish 1: keep up breathing routine from day before, do it at least once per 2 hours.
-Wish 2: 
+Wish 1: I want to keep up the breathing routine from day before, do it at least once per 2 hours.
+At the end of the day I can say, I did pretty much reach my goal by just going on the terrasse or opening the window and breath in fresh air.
+
+Wish 2: Todays #futureskill is selfcare. Since my day is full of meetings, I need to be careful with my energy. I wish to listen to my body's signals and react to them, when I am out if energy.
+When reflecting on this wish in the evening, I am quite satisfied, since I did take a very short na -just closing my eyes- after lunch to reenergized, which worked well. I also worked on some creative task between 2 meetings with music on. 
+
+Wish 3:
+I did not add any further wish this day and took it slow.
+
 
 ## Day 4
-My wish today is to follow up with #leadership skills as mentioned above: I wish to lift others up, ask curious questions and listening actively.
+My first wish today is to follow up with #leadership skills as mentioned above: I wish to lift others up, ask curious questions and listening actively. I wish to do so with my ambassador community and involve them by asking for their ideas. I will also do an interview today, where I try to hold back and listen closely.
+
 
 ## Day 
 Today is Skill—mapping workshop time. My wish is to focus on my part of explaining the value stream - asking about the previous knowledge, e.g. do it quiz style or with video - and then proceed with observing only.
