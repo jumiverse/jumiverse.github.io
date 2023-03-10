@@ -33,30 +33,30 @@ Wish | Mo | Tue | Wed | Thu |Fr|
 
 The alarm goes off by 6 o clock.
 Of course I am sleepy, but I open up the shades and also let in fresh air.
-I tell myself my wish: I wish to get up so that I can be ready with breakfast before 7, so I can use the time to invest in my health. I count to 5 and off I go.
+I tell myself my wish: I wish to **get up so that I can be ready with breakfast before 7, so I can use the time to invest in my health.** I count to 5 and off I go.
 First wish granted, yeah!
 
-The second wish I have is to write a blog post in the morning. 
+The second wish I have is to **write a blog post in the morning.**
 I just granted myself this wish and wrote a blog post about my [no-mail-experiment](2023-02-05-no-mail-experiment.md)
 
 The third one is something, I can only influence partially: 
 I am sharing my learnings in an interview style with a small team of Scrum Masters. The goal is to make them curious and then ask them, if they would like to join and actively participate.
-I wish, that we can at least reach 1 Scrum Master.
+**I wish, that we can at least reach 1 Scrum Master.**
 The result at the end of the day: all of them want to join in. What a great outcome, I am humbled and surprised that my wish is granted!
 
 
 ## Day 2
 
-1. Since I went to sleep with a headache last night, my first wish for today is to take care about my brain. I wish to do so by taking deep breaths of fresh air outside every couple of hours. I take the first step in the morning outside of the terrasse - check.
+1. Since I went to sleep with a headache last night, my first wish for today is to **take care about my brain. I wish to do so by taking deep breaths of fresh air outside every couple of hours.**I take the first step in the morning outside of the terrasse - check.
 
 2. The second one is a bit more tricky: I want to focus on my #futureskill of the day: today it is #leadership.
-So whenever throughout the day I have the chance to practice #leadership, especially to help others to grow, I will try to focus on them and let them shine, but also challenge them in a kind way.
+So whenever throughout the day I have the chance to practice #leadership, especially to help others to grow, I will try to **focus on them and let them shine, but also challenge them in a kind way.**
 So 
 - saying "Thank you" or just 
 - giving them the stage 
 are behaviours I can practice today to fullfill this wish.
 
-3. The third wish is rather tough, it is about helping others. I have a tendency to jump in first when help is needed and since I have a lot of meetings today, there might be a couple of hidden traps. With the focus on #leadership and letting others shine, I wish to also get myself out of the helpers-syndrom and try to not offer help today if it does not help to support others to grow.
+3. The third wish is rather tough, it is about helping others. I have a tendency to jump in first when help is needed and since I have a lot of meetings today, there might be a couple of hidden traps. With the focus on #leadership and letting others shine, **I wish to also get myself out of the helpers-syndrom and try to not offer help today if it does not help to support others to grow.**
 So my wish is to apply #curiosity, a skill included in #leadership, and ask myself: 
 - Do they really need my help here or am I playing the rescuer? 
 - Would it help them more, if they figure it out by themselves and does that in return help them to grow? 
@@ -75,10 +75,10 @@ For today, I see my wish granted, but I will definitely need to stretch myself m
 
 
 ## Day 3
-Wish 1: I want to keep up the breathing routine from day before, do it at least once per 2 hours.
+Wish 1: **I want to keep up the breathing routine from day before**, do it at least once per 2 hours.
 At the end of the day I can say, I did pretty much reach my goal by just going on the terrasse or opening the window and breath in fresh air.
 
-Wish 2: Todays #futureskill is selfcare. Since my day is full of meetings, I need to be careful with my energy. I wish to listen to my body's signals and react to them, when I am out if energy.
+Wish 2: Todays #futureskill is selfcare. Since my day is full of meetings, I need to be careful with my energy. **I wish to listen to my body's signals and react to them, when I am out if energy.**
 When reflecting on this wish in the evening, I am quite satisfied, since I did take a very short na -just closing my eyes- after lunch to reenergized, which worked well. I also worked on some creative task between 2 meetings with music on. 
 
 Wish 3:
@@ -99,7 +99,7 @@ whenever I have the tendency to "punish" myself for what I have said or done, I 
 
 
 ## Day 
-1. Today is Skill—mapping workshop time. My wish is to focus on my part of explaining the value stream - asking about the previous knowledge, e.g. do it quiz style or with video - and then proceed with observing only.
+1. Today is Skill—mapping workshop time. My wish is to **focus on my part of explaining the value stream** - asking about the previous knowledge, e.g. do it quiz style or with video - and **then proceed with observing only.**
 
 I will also repeat wish 2 and 3 from yesterday:
 
