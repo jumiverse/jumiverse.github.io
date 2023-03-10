@@ -86,7 +86,16 @@ I did not add any further wish this day and took it slow.
 
 
 ## Day 4
-My first wish today is to follow up with #leadership skills as mentioned above: I wish to lift others up, ask curious questions and listening actively. I wish to do so with my ambassador community and involve them by asking for their ideas. I will also do an interview today, where I try to hold back and listen closely.
+My first wish today is to follow up with #leadership skills as mentioned above: **I wish to lift others up, ask curious questions and listening actively.** I wish to do so with my ambassador community and involve them by asking for their ideas. I will also do an interview today, where I try to hold back and listen closely.
+
+My second wish for today is related to the quote
+> "Be yourself and say what you feel. The ones who bother do not count and the ones who count won't bother."
+I want to get rid of the "freak out after speak out" where I ruminate about what I have said in a meeting and how others would perceive it. 
+For today I want to use a trick: 
+whenever I have the tendency to "punish" myself for what I have said or done, I will use my "trigger-pic" - which will be Lisa Bilyeu's and her clonk-clonk-clonkety-clonk - frickin' quotes: 
+> **"You can be a kind person with a warm heart and still tell people to eff off when needed."**
+
+The last wish is very much related to the above: I will set and defend my boundaries and still be kind. That will be tough and it will be a journey. I will start today by **NOT involving in things that are not related to my top 3 priorities.**
 
 
 ## Day 
