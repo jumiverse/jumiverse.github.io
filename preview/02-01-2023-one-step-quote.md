@@ -27,7 +27,7 @@ tags: jumquote
 > unless the question is so big it triggers fear.
 
 > when you ask small questions, your amygdala (where the fight-or-flight response occurs) will remain asleep, 
-> and the cortex, always hungry for a good time, will wake up and take notice.
+> and **the cortex, always hungry for a good time, will wake up and take notice.**
 
 
 > Your Brain Loves Questions
