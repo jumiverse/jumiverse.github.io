@@ -7,7 +7,7 @@ tags: jumquote
 
 # Quotes of the day
 
-##  One small step can change your life - BENJAMIN P. HARDY
+##  One small step can change your life - Robert Maurer Ph.D.
 
 
 > **Myth #1: Change Is Hard**
