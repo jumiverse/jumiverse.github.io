@@ -20,7 +20,8 @@ tags: jumquote
 
 > **low-key change** helps the human mind circumnavigate the fear that blocks success and creativity.
 
-> large goal ➞ fear ➞ access to cortex restricted ➞ failure 
+> large goal ➞ fear ➞ access to cortex restricted ➞ failure
+> 
 > small goal ➞ fear bypassed ➞ cortex engaged ➞ success
 
 > **Your brain loves questions** and won’t reject them . . .
