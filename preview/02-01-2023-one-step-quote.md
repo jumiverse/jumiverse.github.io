@@ -5,7 +5,8 @@ lang: en
 tags: jumquote
 ---
 
-# Quotes of the day
+# Quotes with impact 
+Mias favourites from the book
 
 ##  One small step can change your life - Robert Maurer Ph.D.
 
@@ -33,3 +34,4 @@ tags: jumquote
 > Your Brain Loves Questions
 
 _**#staycurious**_
+
