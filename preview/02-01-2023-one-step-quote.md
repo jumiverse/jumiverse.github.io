@@ -12,13 +12,13 @@ tags: jumquote
 
 > **Myth #1: Change Is Hard**
 
-> "**contrary to popular opinion, change—whether personal or in business—doesn’t have to be agonizingly painful. 
+> "**..change—whether personal or in business—doesn’t have to be agonizingly painful. 
 > Nor must it happen only as the result of scare tactics employed to shock ourselves—or our colleagues—into meaningful action.**
 
 
 > **Myth #2: The Size of the Step Determines the Size of the Result**
 
-> low-key change helps the human mind circumnavigate the fear that blocks success and creativity.
+> **low-key change** helps the human mind circumnavigate the fear that blocks success and creativity.
 
 > large goal ➞ fear ➞ access to cortex restricted ➞ failure 
 > small goal ➞ fear bypassed ➞ cortex engaged ➞ success
