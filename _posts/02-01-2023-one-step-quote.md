@@ -5,7 +5,8 @@ lang: en
 tags: jumquote
 ---
 
-**Quotes with impact** Read about Mias favourites from the book
+# Quotes of the day
+Read about Mias favourites from the book
 
 ##  One small step can change your life - Robert Maurer Ph.D.
 
