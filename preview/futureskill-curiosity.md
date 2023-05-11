@@ -5,9 +5,7 @@ lang: en
 tags: jumquote
 ---
 
-# Skill of the day
-
-# Adaptability
+# Skill of the day - Adaptability
 
 One of the futureproof skills is adaptability. 
 In an ever-changing world, individuals who are adaptable, flexible, and open-minded can quickly learn new skills and adjust to new environments. 
