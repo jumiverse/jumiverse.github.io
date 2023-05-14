@@ -10,6 +10,7 @@ Read about Mias favourites from the book
 
 ##  One small step can change your life - Robert Maurer Ph.D.
 
+Notable Quotes:
 
 > **Myth #1: Change Is Hard**
 
