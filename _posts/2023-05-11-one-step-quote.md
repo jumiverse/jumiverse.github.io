@@ -12,7 +12,7 @@ Here is one more eye-opening, inspiring book about good change. Read the notable
 
 **What It’s About:** The book discusses how to take small steps, ask small questions and think small thoughts and still achieve your goals. It debunks the myth that change has to be hard.
 
-Notable Quotes:
+**Notable Quotes:**
 
 > **Myth #1: Change Is Hard**
 
