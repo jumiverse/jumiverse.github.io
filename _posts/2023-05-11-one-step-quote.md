@@ -6,9 +6,11 @@ tags: jumquote
 ---
 
 # Quotes of the day
-Read about Mias favourites from the book
+Here is one more eye-opening, inspiring book about good change. Read the notable quotes below.
 
 ##  One small step can change your life - Robert Maurer Ph.D.
+
+**What It’s About:** The book discusses how to take small steps, ask small questions and think small thoughts and still achieve your goals. It debunks the myth that change has to be hard.
 
 Notable Quotes:
 
